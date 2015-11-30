@@ -1,31 +1,4 @@
-# Wordpress, Sage, Docker boilerplate
-
-## Prepare boilerplate
-
-These steps should be done only once when starting to use this boilerplate.
-
-### Download latest Wordpress
-
-	npm run download-wp
-
-### Download latest [Sage](https://roots.io/sage/)
-
-Replace THEME_NAME with your own theme name
-
-	git clone --depth=1 --branch=master https://github.com/roots/sage.git wordpress/wp-content/themes/THEME_NAME
-	rm -rf wordpress/wp-content/themes/THEME_NAME/.git
-
-### Modify Dockerfile .gitignore and .dockerignore  ###
-
-Replace all THEME_NAME occurrences in Dockerfile .gitignore and .dockerignore with your theme name.
-You can do this with sed
-
-	sed -i '' 's/THEME_NAME/NEW_NAME/g' Dockerfile .gitignore .dockerignore
-
-### Commit everything
-
-You can remove *Prepare boilerplate* steps from this README. The boilerplate is ready to be used. You can commit your changes.
-The following installation steps should be done always when setting up a new development environment.
+# Bluearrow wordpress
 
 ## Installation
 
