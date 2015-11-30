@@ -1,0 +1,14 @@
+bower_components
+node_modules
+.DS_Store
+npm-debug.log
+
+# Ignore everything under wordpress except bluearrow theme and plugins
+wordpress/*
+!wordpress/wp-content
+wordpress/wp-content/*
+!wordpress/wp-content/themes
+wordpress/wp-content/themes/*
+!wordpress/wp-content/themes/bluearrow/
+!wordpress/wp-content/plugins
+wordpress/wp-content/themes/bluearrow/dist

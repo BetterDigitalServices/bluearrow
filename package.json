@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-boilerplate",
+  "version": "0.0.1",
+  "author": "",
+  "homepage": "https://sc5.io/",
+  "private": true,
+  "scripts": {
+    "start": "php -S 127.0.0.1:3000 -t wordpress",
+    "download-wp": "curl -0L http://wordpress.org/wordpress-latest.tar.gz | tar zxv"
+  }
+}
