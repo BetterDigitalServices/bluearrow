@@ -1,0 +1,48 @@
+header {
+  box-shadow: 0px 10px 10px rgba(32, 59, 106, 0.2);
+  z-index: 100;
+
+  font-family : Campton;
+  font-weight : bold;
+  font-size : 14px;
+  line-height : 90px;
+  letter-spacing : 1.56px;
+  text-transform : uppercase;
+  color : #203B6A;
+  vertical-align: middle;
+
+  nav {
+    display: inline;
+  }
+
+  ul {
+    padding: 0;
+    display: inline;
+    list-style-type: none;
+  }
+
+  li {
+    display: inline;
+    margin: 6px;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  .competition-entry-cfa {
+    // TODO Overflow the grid gutter ($grid-gutter-width)
+    background: url("../images/ba_logo-01.svg") repeat-y 0 0;
+    background-color: #203B6A;
+    color : #FFFFFF;
+
+    a {
+      margin-left: 15px;
+      vertical-align: middle;
+      display: inline-block;
+      font-size : 14px;  
+      line-height : 20.6px;
+      letter-spacing : 1.92px;
+    }
+  }
+}

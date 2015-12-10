@@ -1,0 +1,26 @@
+.lead {
+  
+}
+
+.info {
+  font-size : 28px;
+  line-height : 35.6px;
+  letter-spacing : 3.64px;
+  height: 600px;
+}
+
+.rotate-90 {
+  overflow: visible;
+  -webkit-transform-origin: top left;
+  -moz-transform-origin: top left;
+  -ms-transform-origin: top left;
+  -o-transform-origin: top left;
+  transform-origin: top left;
+
+  transform: rotate(90deg) translate(0, -100%);
+}
+
+a, a:hover, a:visited, a:focus {
+  color: inherit;
+  text-decoration: none;
+}

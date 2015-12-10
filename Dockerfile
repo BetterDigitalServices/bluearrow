@@ -11,4 +11,5 @@ RUN chown -R www-data:www-data /usr/src/wordpress
 RUN sed -i.bak 's/.*<?php.*/<?php $_SERVER["HTTP_HOST"] = explode(",", $_SERVER["HTTP_HOST"])[0];/' /usr/src/wordpress/wp-config-sample.php
 
 # Copy theme contents to www root
+
 CMD mkdir -p  /var/www/html/wp-content/themes/ && yes | cp -rf /usr/src/wordpress/wp-content/themes/bluearrow /var/www/html/wp-content/themes && apache2-foreground

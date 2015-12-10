@@ -48,11 +48,11 @@ This image requires that /var/www/ is set as a persistent volume in the containe
 
 Create docker-machine environment if you do not have one yet. This needs to be done only once. Make sure that you have latest VirtualBox installed.
 
-	docker-machine create -d virtualbox dev
+	docker-machine create -d virtualbox default
 
 Start the docker-machine and create the image.
 
-	docker-machine start dev
-	docker-machine env dev
-	docker build -t index.sc5.io/PROJECT_NAME:latest .
-	docker push index.sc5.io/PROJECT_NAME:latest
+	docker-machine start default
+	docker-machine env default
+	docker build -t index.sc5.io/bluearrow:latest .
+	docker push index.sc5.io/bluearrow:latest
