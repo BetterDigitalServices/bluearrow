@@ -14,7 +14,7 @@ Working PHP and MySQL installation is required. Development does not require ext
 
 Create development database for wordpress and copy sample configuration as a base configuration
 
-	cp wordpress/wp-content/wp-config-sample.php wordpres/wp-content/wp-config.php
+	cp wordpress/wp-config-sample.php wordpres/wp-content/wp-config.php
 
 Modify DB_NAME, DB_USER, DB_PASSWORD and DB_HOST to wp-config.php.
 Please note that MySQL host should be 127.0.0.1 instead of localhost.
@@ -53,6 +53,6 @@ Create docker-machine environment if you do not have one yet. This needs to be d
 Start the docker-machine and create the image.
 
 	docker-machine start default
-	docker-machine env default
+	eval "$(docker-machine env default)"
 	docker build -t index.sc5.io/bluearrow:latest .
 	docker push index.sc5.io/bluearrow:latest
