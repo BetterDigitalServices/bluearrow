@@ -14,9 +14,9 @@ Working PHP and MySQL installation is required. Development does not require ext
 
 Create development database for wordpress and copy sample configuration as a base configuration
 
-	cp wordpress/wp-config-sample.php wordpres/wp-content/wp-config.php
+	cp wp-config.php wordpress/wp-config.php
 
-Modify DB_NAME, DB_USER, DB_PASSWORD and DB_HOST to wp-config.php.
+Modify DB_NAME, DB_USER, DB_PASSWORD and DB_HOST to wp-config.php for local host setup.
 Please note that MySQL host should be 127.0.0.1 instead of localhost.
 
 Install theme dependencies
@@ -42,6 +42,22 @@ Start PHP development server (on root of the repository).
 
 ## Deployment
 
+### Deployment using Google App Engine using GUI
+
+Once you have the applications up & running, developing and deploying using Google App engine is one-minute operation.
+
+* [Download and install Google App Engine SDK for PHP](https://cloud.google.com/appengine/downloads#Google_App_Engine_SDK_for_PHP)
+* Start Google App Engine Launcher
+* Open this project
+* Click "Deploy" (will delegate you to OAUTH authentication)
+
+If you want to set up the system from scratch, follow these 15-minute instructions:
+
+* Follow the [WP quick start instructions for App Engine](https://googlecloudplatform.github.io/appengine-php-wordpress-starter-project/)
+
+
+### Deployment using Docker
+
 Build theme assets using instructions in the previous section.
 
 This image requires that /var/www/ is set as a persistent volume in the container.
@@ -52,7 +68,8 @@ Create docker-machine environment if you do not have one yet. This needs to be d
 
 Start the docker-machine and create the image.
 
+	mv Dockerfile.tmpl Dockerfile # Renamed to avoid app engine conflicts
 	docker-machine start default
 	eval "$(docker-machine env default)"
-	docker build -t index.sc5.io/bluearrow:latest .
-	docker push index.sc5.io/bluearrow:latest
+	docker build -t bdsfinland/bluearrow:latest .
+	docker push bdsfinland/bluearrow:latest
