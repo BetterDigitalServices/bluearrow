@@ -40,6 +40,10 @@ Start PHP development server (on root of the repository).
 	cd wordpress/wp-content/themes/THEME_NAME
 	gulp watch
 
+Note: If you want to use the bundled BrowserSync to see live changes when
+editing, modify wordpress/wp-content/themes/THEME_NAME/assets/manifest.json
+path to match the port you are running Wordpress on (e.g. 8080).
+
 ## Deployment
 
 ### Deployment using Google App Engine using GUI
