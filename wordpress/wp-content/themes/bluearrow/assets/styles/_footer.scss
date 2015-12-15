@@ -1,26 +1,26 @@
 footer {
+  padding: 30px 0;
+}
 
+.white-background {
+  padding: 30px 0;
   background: #fff;
+}
 
+.sponsor-info {
+  background: #fff;
 }
-.footercontainer{
-	margin-top: 50px;
-	margin-bottom: 50px;
-}
-.content-info{
-	background: #fff;
-}
-.sponsor{
-	border: 1px solid #203B6A;
-	margin:15px;
-	margin-bottom: 30px;
-	background: #203B6A;
-}
-.content-info h4{
-	margin-top: 30px;
+.sponsor {
+  border: 1px solid #203B6A;
+  margin:15px;
+  margin-bottom: 30px;
+  background: #203B6A;
 
+  h3 {
+    text-align: center;
+    color: #fff;
+  }
 }
-.companies{
-	margin-top: 20px;
-	margin-bottom: 20px;
+.organiser-container {
+  padding-top: 30px;
 }

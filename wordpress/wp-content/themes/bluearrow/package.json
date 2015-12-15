@@ -57,6 +57,7 @@
   },
   "dependencies": {
     "asset-builder": "^1.1.0",
-    "gulp-rev": "^6.0.1"
+    "gulp-rev": "^6.0.1",
+    "wiredep": "^3.0.0"
   }
 }
