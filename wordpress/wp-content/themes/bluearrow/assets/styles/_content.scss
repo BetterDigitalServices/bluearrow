@@ -26,7 +26,6 @@ a, a:hover, a:visited, a:focus {
 }
 
 @media(min-width:733px) and (max-width: 991px){
-
   h3 {
     text-align: center;
   }
@@ -38,6 +37,7 @@ a, a:hover, a:visited, a:focus {
 
 @media(min-width:481px) and (max-width: 732px){
   h1 {
+    padding-top: 22px;
     font-size: 45px;
     line-height: 50px;
   }
@@ -53,6 +53,7 @@ a, a:hover, a:visited, a:focus {
 
 @media(max-width:480px) {
   h1 {
+    padding-top: 15px;
     font-size: 30px;
     line-height: 40px;
   }

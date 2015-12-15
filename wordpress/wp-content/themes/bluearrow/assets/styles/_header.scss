@@ -21,9 +21,11 @@ nav {
 .navbar {
   background-color: #fff !important;
   color: #203B6A !important;
-  min-height: 90px;
-  line-height: 90px;
   vertical-align: middle;
+
+  .navbar-header {
+    min-height: 90px;
+  }
 
   .navbar-brand {
     padding: 10px;
