@@ -12,21 +12,30 @@ header {
   vertical-align: middle;
 }
 
+nav {
+  -moz-box-shadow:0 5px 5px rgba(182, 182, 182, 0.75);
+  -webkit-box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+  box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+}
+
 .navbar {
   background-color: #fff !important;
   color: #203B6A !important;
+  min-height: 90px;
+  line-height: 90px;
+  vertical-align: middle;
 
   .navbar-brand {
-    min-height: 80px;
+    padding: 10px;
 
     img {
-      width: 3em;
-      height: 3em;
+      width: 70px;
+      height: 70px;
     }
 
     h4 {
       float:right;
-      margin-top: 15px;
+      margin-top: 23px;
       margin-left: 15px;
       color: #203B6A;
       font-family: Campton;
