@@ -10,15 +10,19 @@
   src: url('../../assets/fonts/Rene_Bieder-Campton_Light.otf') format('opentype');
 }
 
-@font-face{
+@font-face {
+  font-family: 'CamptonBold';
+  src: url('../../assets/fonts/Rene_Bieder-Campton_Bold.otf') format('opentype');
+}
+
+@font-face {
   font-family: 'Baskerville';
   src: url('../../assets/fonts/272514-baskerville-120-pro-regular/Baskerville120Pro.otf') format('opentype');
 }
 
-h1,h2,h3,h4 {
+h1, h2, h3, h4 {
   margin-bottom: 24px;
 }
-
 
 h1 {
   text-transform: uppercase;
@@ -30,26 +34,19 @@ h1 {
 }
 
 h3 {
-  font-family: CamptonLight;
   font-size:30px;
   font-weight: 200;
 }
 
 h4 {
-  font-family: CamptonLight;
   font-size:20px;
   font-weight: 200;
 }
 
-p {
-  font-family : Baskerville;  
-  font-size: 18px;
-  margin-bottom: 24px;
-}
-
 .rotate h4 {
-  font-family: Campton;
+  font-family: CamptonBold;
   font-size: 18px;
+  font-weight: bold;
   letter-spacing: 2px;
   line-height: 140%;
 }
@@ -57,7 +54,6 @@ p {
 .all-caps {
   text-transform: uppercase;
 }
-
 
 .holder {
   /* Clip edges, as some of the lines don't terminate nicely. */
