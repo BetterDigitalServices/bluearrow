@@ -23,8 +23,10 @@
     </div>
   </div>-->
   <div class="container organiser-container">
-    <div class="row">
-      <h4 class ="col-md-offset-1">BLUE ARROW IS ORGANISED BY BETTER DIGITAL SERVICES FINLAND:</h4>
+    <div class="row row-centered">
+      <p class="col-md-12">
+      Blue arrow is organised by Better Digital Services Finland. <a href="http://betterdigitalservices.github.io/manifesto/">Read more about our principles here.</a>
+      </p>
     </div>
     <div class="row row-centered">
       <div class="col-md-1 col-centered">
