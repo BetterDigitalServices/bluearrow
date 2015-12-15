@@ -90,15 +90,37 @@ main {
 .col-icon img {
   margin-top: 40px;
   width: 5em;
-    height: 5em;
+  height: 5em;
 }
 
-.awardgrid {
-  margin:5px;
-  padding:5px;
-  border: 3px solid #203B6A;
+.award-grid {
+  @include container-fixed($gutter: 10px);
+}
+
+.award-row {
+  @include make-row($gutter: 10px);
+  vertical-align: middle;
+}
+
+.award {
+  @include make-md-column(4, $gutter: 10px);
+  text-align: center;
   background: #d3ecdf;
-  min-height: 150px;
+  padding: 20px;
+
+  /* Slightly unstandard but working borders that don't mess up with gutter */
+  outline: 3px solid #203B6A;
+  outline-offset: -5px;
+  -moz-outline-radius: 5px;
+  -webkit-outline-radius: 5px;
+
+  @media (min-width: $screen-md-min) {
+    height: 210px;
+  }
+
+  @media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
+    height: 120px;
+  }
 }
 
 .rotate { 
