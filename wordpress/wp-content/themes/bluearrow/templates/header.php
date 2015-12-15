@@ -25,7 +25,7 @@
           <li><a href="#categories"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
           <li><a href="#betheimpact"><img alt="Be the impact" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">Be the Impact</a></li>
           <li><a href="#contact"><img alt="contact" src="wp-content/themes/bluearrow/dist/images/contact.svg">Contact</a></li>
-          <li class="bluenav"><a href="#" aria-hidden="false">Entries open 16.1.2015</a></li>
+          <li class="bluenav"><a href="#" aria-hidden="false">Entries open<br>16.1.2015</a></li>
         </ul>
       </div>
 
