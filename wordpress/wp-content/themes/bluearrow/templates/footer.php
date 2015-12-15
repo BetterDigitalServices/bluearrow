@@ -33,7 +33,10 @@
       <div class="col-md-1 col-centered">
         <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-18.svg">
       </div>
-        <div class="col-md-1 col-centered">
+      <div class="col-md-1 col-centered">
+        <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-27.svg">
+      </div>
+      <div class="col-md-1 col-centered">
         <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-19.svg">
       </div>
       <div class="col-md-1 col-centered">
@@ -56,9 +59,6 @@
       </div>
       <div class="col-md-1 col-centered">
         <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-26.svg">
-      </div>
-      <div class="col-md-1 col-centered">
-        <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-27.svg">
       </div>
     </div>
   </div>
