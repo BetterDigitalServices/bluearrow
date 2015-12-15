@@ -25,43 +25,45 @@
     <?php dynamic_sidebar('sidebar-footer'); ?>
   </div>
 
-  <div class="col-md-1 col-md-offset-1">
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-17.svg">
+  <div class="col-md-1">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-17.svg">
   </div>
   <div class="col-md-1">
   	
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-18.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-18.svg">
   </div>
     <div class="col-md-1">
   	
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-19.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-19.svg">
   </div>
   <div class="col-md-1">
   	
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-20.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-20.svg">
   </div>
     <div class="col-md-1">
   	
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-21.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-21.svg">
   </div>
   <div class="col-md-1">
   
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-22.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-22.svg">
   </div>
     <div class="col-md-1">
   	
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-23.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-23.svg">
   </div>
   <div class="col-md-1">
   
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-24.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-24.svg">
   </div>
     <div class="col-md-1">
   	
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-25.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-25.svg">
   </div>
   <div class="col-md-1">
-  	
-  	<img class="img-responsive companies"alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-26.svg">
+  	<img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-26.svg">
+  </div>
+  <div class="col-md-1">
+    <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-27.svg">
   </div>
 </footer>
