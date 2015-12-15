@@ -9,44 +9,45 @@
   font-family: 'CamptonLight';
   src: url('../../assets/fonts/Rene_Bieder-Campton_Light.otf') format('opentype');
 }
+
 @font-face{
-	font-family: 'Baskerville';
-	src: url('../../assets/fonts/272514-baskerville-120-pro-regular/Baskerville120Pro.otf') format('opentype');
+  font-family: 'Baskerville';
+  src: url('../../assets/fonts/272514-baskerville-120-pro-regular/Baskerville120Pro.otf') format('opentype');
 }
-h1,h2,h3,h4{
-	margin-bottom: 24px;
+
+h1,h2,h3,h4 {
+  margin-bottom: 24px;
 }
 
 
 h1 {
-  margin-top: 60px;
-  padding-top:24px;
   text-transform: uppercase;
   font-family : Campton;
   font-weight : bold;
   font-size : 84px;
   line-height : 92.6px;
   letter-spacing : 8.15px;
+}
 
+h3 {
+  font-family: CamptonLight;
+  font-size:30px;
+  font-weight: 200;
 }
-h3{
-	font-family: CamptonLight;
-	font-size:30px;
-	font-weight: 200;
-}
-h4{
+
+h4 {
   font-family: CamptonLight;
   font-size:20px;
   font-weight: 200;
 }
-p{
 
-font-family : Baskerville;	
-font-size: 18px;
-margin-bottom: 24px;
+p {
+  font-family : Baskerville;  
+  font-size: 18px;
+  margin-bottom: 24px;
 }
 
-.rotate h4{
+.rotate h4 {
   font-family: Campton;
   font-size: 18px;
   letter-spacing: 2px;
@@ -60,31 +61,23 @@ margin-bottom: 24px;
 
 .holder {
   /* Clip edges, as some of the lines don't terminate nicely. */
-    overflow: hidden;
-    position: relative;
-    left: 200px;
-    width: 300px;
-    height: 50px;
+  overflow: hidden;
+  position: relative;
+  left: 200px;
+  width: 300px;
+  height: 50px;
 }
+
 .ellipse {
-    position: absolute;
-    background: radial-gradient(ellipse, transparent, transparent 7px, #203B6A 7px, #203B6A 10px, transparent 11px);
-    background-size: 36px 40px;
-    width: 300px;
-    height: 20px;
+  position: absolute;
+  background: radial-gradient(ellipse, transparent, transparent 7px, #203B6A 7px, #203B6A 10px, transparent 11px);
+  background-size: 36px 40px;
+  width: 300px;
+  height: 20px;
 }
 
 .ellipse2 {
-    top: 20px;
-    left: 18px;
-    background-position: 0px -20px;
-}
-.bluenav  a{
-  padding-top:20px;
-  padding-left:20px;
-  color: white;
-}
-.bluenav  a:hover{
-  color: white;
-  text-decoration:underline;
+  top: 20px;
+  left: 18px;
+  background-position: 0px -20px;
 }

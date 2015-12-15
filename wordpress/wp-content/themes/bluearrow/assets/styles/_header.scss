@@ -5,44 +5,163 @@ header {
   font-family : Campton;
   font-weight : bold;
   font-size : 14px;
-  line-height : 90px;
+  line-height : 80px;
   letter-spacing : 1.56px;
   text-transform : uppercase;
   color : #203B6A;
   vertical-align: middle;
+}
 
-  nav {
-    display: inline;
-  }
+.navbar {
+  background-color: #fff !important;
+  color: #203B6A !important;
 
-  ul {
-    padding: 0;
-    display: inline;
-    list-style-type: none;
-  }
+  .navbar-brand {
+    min-height: 80px;
 
-  li {
-    display: inline;
-    margin: 6px;
-  }
+    img {
+      width: 3em;
+      height: 3em;
+    }
 
-  a {
-    color: inherit;
-  }
-
-  .competition-entry-cfa {
-    // TODO Overflow the grid gutter ($grid-gutter-width)
-    background: url("../images/ba_logo-01.svg") repeat-y 0 0;
-    background-color: #203B6A;
-    color : #FFFFFF;
-
-    a {
+    h4 {
+      float:right;
+      margin-top: 15px;
       margin-left: 15px;
-      vertical-align: middle;
-      display: inline-block;
-      font-size : 14px;  
-      line-height : 20.6px;
-      letter-spacing : 1.92px;
+      color: #203B6A;
+      font-family: Campton;
+      display: none;
+    }
+  }
+
+  .navbar-nav {
+    li {
+      a {
+        padding: 10px;
+      }
+
+      img {
+        width: 2em;
+        margin-right: 10px;
+      }
+    }
+
+    .bluenav {
+      background: #203B6A;
+      min-height:90px;
+      margin-bottom: 0px !important;
+      margin-right: 0px !important;
+      margin-left: 25px;
+
+      > a {
+        color: white !important;
+      }
+
+      a:hover {
+        color: white !important;
+        text-decoration: underline;
+      }
+
+      &:after {
+        position:absolute;
+        content: "";
+        width: 10px;
+        height: 10px;
+        transform: rotate(315deg);
+        transform-origin:0% 100%;
+        background: #203B6A;
+        left:-10;
+        bottom:0;
+        box-shadow: 10px -10px 0 0 #203B6A, 20px -20px 0 0 #203B6A, 30px -30px 0 0 #203B6A, 40px -40px 0 0 #203B6A, 50px -50px 0 0 #203B6A;
+      }
+    }
+  }
+
+  .navbar-toggle {
+    margin-top: 30px;
+    border-color:#fff;
+    background-color: #fff;
+
+    .icon-bar {
+      background-color: #203B6A !important;
+    }
+  
+    &:focus, &:hover {
+      background-color:#fff;
+    }
+  }
+}
+
+@media (max-width: $screen-lg-min) {
+  .navbar {
+    /* Hide the blue item entirely */
+    padding-right: 30px;
+    .navbar-nav {
+      .bluenav {
+        display: none;
+      }
+    }  
+  }
+}
+
+@media (min-width: $screen-md-min) and (max-width: $screen-lg-min) {
+  .navbar {
+    .navbar-nav {
+      li {
+        a {
+          padding: 5px;
+        }
+      }
+    }
+
+    .navbar-collapse {
+      border-top: 1px solid transparent;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+
+    .navbar-fixed-top {
+      top: 0;
+      border-width: 0 0 1px;
+    }
+  }
+}
+
+@media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
+  .navbar {
+    .navbar-nav {
+      li {
+        a {
+          padding: 10px;
+        }
+
+        img {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+@media(min-width: $screen-sm-min) {
+  .navbar-nav {
+    li {
+      a {
+        margin-top: 24px;
+      }
+    }
+  }
+}
+
+@media(max-width: $screen-sm-min) {
+  .navbar-brand h4 {
+    display:block !important;
+  }
+
+  .navbar-nav {
+    li {
+      img {
+        display: inline;
+      }
     }
   }
 }
