@@ -1,5 +1,5 @@
 <footer>
-  <div class="white-background">
+  <!--<div class="white-background">
     <div class="container sponsor-container">
       <div class="row">
         <h4 class ="col-md-offset-1">BLUE ARROW IS SPONSORED BY:</h4>
@@ -21,7 +21,7 @@
       </div>
       <?php dynamic_sidebar('sidebar-footer'); ?>
     </div>
-  </div>
+  </div>-->
   <div class="container organiser-container">
     <div class="row">
       <h4 class ="col-md-offset-1">BLUE ARROW IS ORGANISED BY BETTER DIGITAL SERVICES FINLAND:</h4>
