@@ -45,8 +45,9 @@ nav {
   }
 
   .navbar-nav {
-    li {
-      a {
+    >li {
+      >a, a:hover, a:focus, a:visited {
+        color: #203B6A;
         padding: 10px;
         text-decoration: none;
       }
