@@ -11,7 +11,7 @@ a, a:hover, a:visited, a:focus {
   text-decoration: underline;
 }
 
-@media(max-width: 1238px) {
+@media(max-width: $screen-md-min) {
   .collapse.in {
     display:block !important;
   }
@@ -74,6 +74,7 @@ main {
 
 .page-header {
   border: 0px !important;
+  margin-top: 40px;
 }
 
 .categories {
@@ -127,10 +128,8 @@ main {
 
 .rotate { 
   position:absolute;
-  top: 48px;
+  top: 38px;
   left: 65px;
-  margin: 20px;
-  text-transform: uppercase;
   overflow: visible;
   -webkit-transform-origin: top left;
   -moz-transform-origin: top left;
@@ -160,9 +159,9 @@ main {
   width: 300px;
   border: 0px;
   background-color: #fff;
-  -moz-box-shadow:0 5px 5px rgba(182, 182, 182, 0.75);
-  -webkit-box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
-  box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+  -moz-box-shadow:0 10px 15px rgba(32, 59, 106, 0.2);
+  -webkit-box-shadow: 0 15px 10px rgba(32, 59, 106, 0.2);
+  box-shadow: 0 10px 15px rgba(32, 59, 106, 0.2);
 }
 
 .awardbutton h4 {
