@@ -12,6 +12,22 @@
 
 (function($) {
 
+  // Expontential moving average function from http://oroboro.com/irregular-ema/
+  function EMA(alpha) {
+    // Add defaults
+    alpha = alpha || 0.2;
+    var prevSample = 0;
+    var emaPrev = 0;
+
+    return function(sample, deltaTime) {
+      var a = deltaTime / alpha;
+      var u = Math.exp(a * -1);
+      var v = (1 - u) / a;
+      emaPrev = (u * emaPrev) + ((v - u) * prevSample) + ((1.0 - v) * sample);
+      return emaPrev;
+    };
+  }
+
   // Use this variable to set up the common and page specific functions. If you
   // rename this variable, you will also need to rename the namespace below.
   var Sage = {
@@ -19,6 +35,33 @@
     'common': {
       init: function() {
         // JavaScript to be fired on all pages
+
+        // Hide menu when not active
+        var lastScrollTop = 0;
+        var lastScroll = new Date();
+        var averager = EMA(0.2);
+
+        $(window).scroll(function(event){
+           var st = $(this).scrollTop();
+           var now = new Date();
+
+           // Scroll speed - pixels per (milli)second
+           var diff = averager(st - lastScrollTop, now-lastScroll);
+
+           // React only for for bigger changes when toggling the bar
+           if (Math.abs(diff) > 40) {
+             if (st < lastScrollTop) {
+                $('.nav-primary').addClass('navbar-fixed-top');
+                $('.nav-primary').removeClass('navbar-static-top');
+             } else {
+                $('.nav-primary').removeClass('navbar-fixed-top');
+                $('.nav-primary').addClass('navbar-static-top');
+             }
+           }
+           lastScrollTop = st;
+           lastScroll = now;
+        });
+
       },
       finalize: function() {
         // JavaScript to be fired on all pages, after page specific JS is fired
