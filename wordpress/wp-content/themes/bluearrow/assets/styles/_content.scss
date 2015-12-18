@@ -11,6 +11,12 @@ a, a:hover, a:visited, a:focus {
   text-decoration: underline;
 }
 
+.conditionally-centered-text {
+  @media(max-width: $screen-sm-min) {
+    text-align: center;
+  }
+}
+
 @media(max-width: $screen-md-min) {
   .collapse.in {
     display:block !important;
