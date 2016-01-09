@@ -132,6 +132,25 @@ main {
   }
 }
 
+.jury {
+  margin-top: 2em;
+
+  div {
+    text-align: center;
+  }
+  
+  h4 {
+    color: #fff;
+    font-family: 'CamptonBold';
+    font-weight: normal;
+    position: relative;
+    top: -80px;
+  }
+  img {
+    @include box-shadow(0 8px 25px $shadow);
+  }
+}
+
 .rotate { 
   position:absolute;
   top: 38px;

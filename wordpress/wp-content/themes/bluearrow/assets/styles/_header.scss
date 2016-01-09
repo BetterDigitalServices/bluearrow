@@ -12,9 +12,7 @@ header {
 }
 
 nav {
-  -moz-box-shadow:0 8px 25px rgba(32, 59, 106, 0.2);
-  -webkit-box-shadow: 0 8px 25px rgba(32, 59, 106, 0.2);
-  box-shadow: 0 8px 25px rgba(32, 59, 106, 0.2);
+  @include box-shadow(0 8px 25px $shadow);
 }
 
 .navbar {
