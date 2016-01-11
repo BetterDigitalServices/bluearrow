@@ -30,37 +30,59 @@
     </div>
     <div class="row row-centered">
       <div class="col-md-1 col-centered">
-        <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-17.svg">
+        <a href="http://codento.fi/">
+          <img class="img-responsive organiser" alt="Codento" src="wp-content/themes/bluearrow/dist/images/codento.svg">
+        </a>
       </div>
       <div class="col-md-1 col-centered">
-        <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-18.svg">
+        <a href="http://www.eficode.fi/">
+          <img class="img-responsive organiser" alt="Eficode" src="wp-content/themes/bluearrow/dist/images/eficode.svg">
+        </a>
       </div>
       <div class="col-md-1 col-centered">
-        <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-19.svg">
+        <a href="http://www.exove.com/">
+          <img class="img-responsive organiser" alt="Exove" src="wp-content/themes/bluearrow/dist/images/exove.svg">
+        </a>
       </div>
       <div class="col-md-1 col-centered">
-        <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-27.svg">
+        <a href="https://fraktio.fi/">
+          <img class="img-responsive organiser" alt="Fraktio" src="wp-content/themes/bluearrow/dist/images/fraktio.svg">
+        </a>
       </div>
       <div class="col-md-1 col-centered">
-        <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-20.svg">
+        <a href="http://futurice.com/">
+          <img class="img-responsive companies" alt="Futurice" src="wp-content/themes/bluearrow/dist/images/futurice.svg">
+        </a>
+      </div>
+      <div class="col-md-1 col-centered">
+        <a href="https://gofore.com/">
+          <img class="img-responsive organiser" alt="Gofore" src="wp-content/themes/bluearrow/dist/images/gofore.svg">
+        </a>
+      </div>
+      <div class="col-md-1 col-centered">
+        <a href="http://www.houston-inc.com/">
+          <img class="img-responsive organiser" alt="Houston Inc." src="wp-content/themes/bluearrow/dist/images/houston-inc.svg">
+        </a>
       </div>
         <div class="col-md-1 col-centered">
-        <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-21.svg">
+        <a href="http://reaktor.com/">
+          <img class="img-responsive organiser" alt="Reaktor" src="wp-content/themes/bluearrow/dist/images/reaktor.svg">
+        </a>
       </div>
       <div class="col-md-1 col-centered">
-        <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-22.svg">
-      </div>
-        <div class="col-md-1 col-centered">
-        <img class="img-responsive organiser" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-23.svg">
-      </div>
-      <div class="col-md-1 col-centered">
-        <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-24.svg">
-      </div>
-        <div class="col-md-1 col-centered">
-        <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-25.svg">
+        <a href="http://sc5.io/">
+          <img class="img-responsive organiser" alt="SC5" src="wp-content/themes/bluearrow/dist/images/sc5.svg">
+        </a>
       </div>
       <div class="col-md-1 col-centered">
-        <img class="img-responsive companies" alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba_company-26.svg">
+        <a href="http://www.solita.fi/">
+          <img class="img-responsive organiser" alt="Solita" src="wp-content/themes/bluearrow/dist/images/solita.svg">
+        </a>
+      </div>
+      <div class="col-md-1 col-centered">
+        <a href="https://www.vincit.fi/">
+          <img class="img-responsive companies" alt="Vincit" src="wp-content/themes/bluearrow/dist/images/vincit.svg">
+        </a>
       </div>
     </div>
   </div>
