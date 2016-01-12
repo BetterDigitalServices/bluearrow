@@ -120,7 +120,7 @@ nav {
   .navbar {
     .navbar-nav {
       li {
-        a {
+        a, a:hover, a:visited, a:focus {
           padding: 5px;
         }
       }
