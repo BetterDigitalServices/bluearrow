@@ -25,8 +25,13 @@
   <div class="container organiser-container">
     <div class="row row-centered">
       <p class="col-md-12">
-      Blue arrow is organised by Better Digital Services Finland. <a href="http://betterdigitalservices.github.io/manifesto/">Read more about our principles here.</a>
+        Blue arrow is organised by Better Digital Services Finland.
       </p>
+      <div class="col-md-12 awardbutton">
+        <h4>
+          <a href="http://betterdigitalservices.github.io/manifesto/">Read more about our principles here.</a>
+        </h4>
+      </div>
     </div>
     <div class="row row-centered">
       <div class="col-md-1 col-centered">
