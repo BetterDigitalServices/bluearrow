@@ -63,7 +63,7 @@ nav {
       margin-right: 0px !important;
       margin-left: 25px;
 
-      > a {
+      >a, a:hover, a:focus, a:visited {
         padding: 0 20px;
         text-align: center;
         color: white !important;
@@ -142,7 +142,7 @@ nav {
   .navbar {
     .navbar-nav {
       li {
-        a {
+        a, a:hover, a:focus, a:visited {
           padding: 10px;
         }
 
@@ -157,7 +157,7 @@ nav {
 @media(min-width: $screen-sm-min) {
   .navbar-nav {
     li {
-      a {
+      a, a:hover, a:focus, a:visited {
         margin-top: 24px;
       }
     }
