@@ -118,7 +118,7 @@ main {
   padding: 20px;
 
   /* Slightly unstandard but working borders that don't mess up with gutter */
-  outline: 3px solid $blue;
+  outline: 5px solid $blue;
   outline-offset: -10px;
 
   h4 {
@@ -137,9 +137,10 @@ main {
     }
     
     .corner {
-      border-left: 3px solid $blue;
-      height: 48px;
-      transform: rotate(45deg) translate(-10px,-15px);
+      border-left: 5px solid $blue;
+      height: 57px;
+      width: 10px;
+      transform: rotate(45deg) translate(-10px,-18px);
     }
   }
   
@@ -156,12 +157,13 @@ main {
     h4 {
       font-size: 20px;
       margin: 0;
-      margin-top: -17px;
+      margin-top: -27px;
     }
     .corner {
-      border-left: 3px solid $blue;
-      height: 35px;
-      transform: rotate(45deg) translate(50px,140px);
+      border-left: 5px solid $blue;
+      height: 45px;
+      width: 10px;
+      transform: rotate(45deg) translate(-13px,-12px);
     }
   }
   
