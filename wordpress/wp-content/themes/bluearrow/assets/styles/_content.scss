@@ -103,32 +103,40 @@ main {
 }
 
 .award-grid {
-  @include container-fixed($gutter: 10px);
+  @include container-fixed($gutter: 20px);
 }
 
 .award-row {
-  @include make-row($gutter: 10px);
+  @include make-row($gutter: 20px);
   vertical-align: middle;
 }
 
 .award {
-  @include make-md-column(4, $gutter: 10px);
+  @include make-md-column(3, $gutter: 20px);
   text-align: center;
   background: #d3ecdf;
   padding: 20px;
 
   /* Slightly unstandard but working borders that don't mess up with gutter */
   outline: 3px solid #203B6A;
-  outline-offset: -5px;
-  -moz-outline-radius: 5px;
-  -webkit-outline-radius: 5px;
+  outline-offset: -10px;
 
-  @media (min-width: $screen-md-min) {
-    height: 210px;
+  h4 {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.4em;
+  }
+  
+  @media (min-width: $screen-md-min) and (max-width: $screen-lg-min) {
+    height: 128px;
+  }
+
+  @media (min-width: $screen-lg-min) {
+    height: 155px;
   }
 
   @media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
-    height: 120px;
+    height: 100px;
   }
 }
 
