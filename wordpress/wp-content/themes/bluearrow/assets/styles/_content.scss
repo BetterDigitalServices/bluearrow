@@ -126,6 +126,15 @@ main {
     font-weight: bold;
     line-height: 1.4em;
   }
+
+  // set vertical alignment in square boxes to middle
+  @media (min-width: $screen-md-min) {
+    display: table;
+    h4 {
+      display: table-cell;
+      vertical-align: middle;
+    }
+  }
   
   @media (min-width: $screen-md-min) and (max-width: $screen-lg-min) {
     height: 128px;
