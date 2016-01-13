@@ -118,7 +118,7 @@ main {
   padding: 20px;
 
   /* Slightly unstandard but working borders that don't mess up with gutter */
-  outline: 3px solid #203B6A;
+  outline: 3px solid $blue;
   outline-offset: -10px;
 
   h4 {
@@ -127,12 +127,19 @@ main {
     line-height: 1.4em;
   }
 
-  // set vertical alignment in square boxes to middle
+
   @media (min-width: $screen-md-min) {
+    // set vertical alignment in square boxes to middle
     display: table;
     h4 {
       display: table-cell;
       vertical-align: middle;
+    }
+    
+    .corner {
+      border-left: 3px solid $blue;
+      height: 48px;
+      transform: rotate(45deg) translate(-10px,-15px);
     }
   }
   
@@ -146,6 +153,24 @@ main {
 
   @media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
     height: 100px;
+    h4 {
+      font-size: 20px;
+      margin: 0;
+      margin-top: -17px;
+    }
+    .corner {
+      border-left: 3px solid $blue;
+      height: 35px;
+      transform: rotate(45deg) translate(50px,140px);
+    }
+  }
+  
+  @media (max-width: $screen-sm-min) {
+    height: 100px;
+    h4 {
+      font-size: 20px;
+      margin: 16px;
+    }
   }
 }
 

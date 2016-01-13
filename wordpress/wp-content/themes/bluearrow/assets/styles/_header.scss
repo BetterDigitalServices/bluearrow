@@ -7,7 +7,7 @@ header {
   line-height : 80px;
   letter-spacing : 1.56px;
   text-transform : uppercase;
-  color : #203B6A;
+  color: $blue;
   vertical-align: middle;
 }
 
@@ -17,7 +17,7 @@ nav {
 
 .navbar {
   background-color: #fff !important;
-  color: #203B6A !important;
+  color: $blue !important;
   vertical-align: middle;
 
   .navbar-header {
@@ -36,7 +36,7 @@ nav {
       float:right;
       margin-top: 23px;
       margin-left: 15px;
-      color: #203B6A;
+      color: $blue;
       font-family: Campton;
       display: none;
     }
@@ -45,7 +45,7 @@ nav {
   .navbar-nav {
     >li {
       >a, a:hover, a:focus, a:visited {
-        color: #203B6A;
+        color: $blue;
         padding: 10px;
         text-decoration: none;
       }
@@ -57,7 +57,7 @@ nav {
     }
 
     .bluenav {
-      background: #203B6A;
+      background: $blue;
       min-height: 90px;
       margin-bottom: 0px !important;
       margin-right: 0px !important;
@@ -81,10 +81,10 @@ nav {
         height: 10px;
         transform: rotate(315deg);
         transform-origin:0% 100%;
-        background: #203B6A;
+        background: $blue;
         left:-10;
         bottom:0;
-        box-shadow: 10px -10px 0 0 #203B6A, 20px -20px 0 0 #203B6A, 30px -30px 0 0 #203B6A, 40px -40px 0 0 #203B6A, 50px -50px 0 0 #203B6A;
+        box-shadow: 10px -10px 0 0 $blue, 20px -20px 0 0 $blue, 30px -30px 0 0 $blue, 40px -40px 0 0 $blue, 50px -50px 0 0 $blue;
       }
     }
   }
@@ -95,7 +95,7 @@ nav {
     background-color: #fff;
 
     .icon-bar {
-      background-color: #203B6A !important;
+      background-color: $blue !important;
     }
   
     &:focus, &:hover {
