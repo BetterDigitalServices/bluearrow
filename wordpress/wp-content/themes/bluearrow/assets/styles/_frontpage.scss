@@ -1,0 +1,60 @@
+#page-frontpage {
+    h1.frontpageheader {
+        position: relative;
+
+        @media (max-width: $screen-sm-min) {
+            margin: 24px;
+        }
+
+        span {
+            position: relative;
+
+            img {
+                position: absolute;
+                left: 0;
+                bottom: -20px;
+
+                @media (max-width: $screen-sm-min) {
+                    width: 230px;
+                    bottom: -16px;
+                }
+
+                @media(max-width:480px) {
+                    width: 172px;
+                    bottom: -12px;
+                }
+            }
+
+        }
+
+        .bluearrow {
+            position: absolute;
+            bottom: -230px;
+            left: -19px;
+
+            @media (max-width: $screen-sm-min) {
+                display: none;
+            }
+        }
+    }
+
+    .mainheader {
+        margin-bottom: 50px;
+    }
+
+    .col-icon {
+        padding-left: 0px;
+        text-align: right;
+
+        @media (max-width: $screen-md-min) {
+            text-align: center;
+        }
+    }
+
+    .rotate {
+
+        @media (max-width: $screen-lg-min) {
+            left: 50px;
+        }
+    }
+}

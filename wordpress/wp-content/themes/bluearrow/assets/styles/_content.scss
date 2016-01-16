@@ -22,7 +22,7 @@ a, a:hover, a:visited, a:focus {
     display:block !important;
   }
 
-  .rotate { 
+  .rotate {
     display:none;
   }
 
@@ -85,7 +85,7 @@ main {
 
 .categories {
   padding: 30px;
-} 
+}
 
 .sponsors {
   background: #fff;
@@ -97,9 +97,9 @@ main {
 }
 
 .col-icon img {
-  margin-top: 40px;
-  width: 5em;
-  height: 5em;
+  margin-top: 55px;
+  width: 4.5em;
+  height: 4.5em;
 }
 
 .award-grid {
@@ -135,7 +135,7 @@ main {
       display: table-cell;
       vertical-align: middle;
     }
-    
+
     .corner {
       border-left: 5px solid $blue;
       height: 57px;
@@ -143,7 +143,7 @@ main {
       transform: rotate(45deg) translate(-10px,-18px);
     }
   }
-  
+
   @media (min-width: $screen-md-min) and (max-width: $screen-lg-min) {
     height: 128px;
   }
@@ -166,7 +166,7 @@ main {
       transform: rotate(45deg) translate(-13px,-12px);
     }
   }
-  
+
   @media (max-width: $screen-sm-min) {
     height: 100px;
     h4 {
@@ -182,7 +182,7 @@ main {
   div {
     text-align: center;
   }
-  
+
   h4 {
     color: #fff;
     font-family: 'CamptonBold';
@@ -195,9 +195,9 @@ main {
   }
 }
 
-.rotate { 
+.rotate {
   position:absolute;
-  top: 38px;
+  top: 25px;
   left: 65px;
   overflow: visible;
   -webkit-transform-origin: top left;
@@ -228,15 +228,15 @@ main {
   width: 300px;
   border: 0px;
   background-color: #fff;
-  
+
   @include box-shadow(0 10px 15px $shadow);
-  
+
   h4 {
     font-family: Campton !important;
     font-size: 20px;
     font-weight: 300;
     margin: 10px;
-    
+
     a {
       text-decoration: none;
     }
