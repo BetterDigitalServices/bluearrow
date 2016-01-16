@@ -198,15 +198,15 @@ main {
 .rotate {
   position:absolute;
   top: 25px;
-  left: 65px;
+  right: 0px;
   overflow: visible;
-  -webkit-transform-origin: top left;
-  -moz-transform-origin: top left;
-  -ms-transform-origin: top left;
-  -o-transform-origin: top left;
-  transform-origin: top left;
+  -webkit-transform-origin: top right;
+  -moz-transform-origin: top right;
+  -ms-transform-origin: top right;
+  -o-transform-origin: top right;
+  transform-origin: top right;
 
-  transform: rotate(90deg) translate(0, -100%);
+  transform: rotate(90deg) translate(100%, 0);
 }
 
 .scale-to-height {
