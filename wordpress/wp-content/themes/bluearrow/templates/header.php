@@ -1,11 +1,11 @@
 <header class="banner">
   <div class="container">
-    <nav class="nav-primary navbar navbar-default navbar-fixed-top"> 
+    <nav class="nav-primary navbar navbar-default navbar-fixed-top">
       <!--<a class="brand" href="<?= esc_url(home_url('/')); ?>"><?php bloginfo('name'); ?></a>-->
       <div class="navbar-header">
         <a class="navbar-brand" href="#">
           <h4>blue arrow</h4>
-          <img alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/arrow.png">
+          <img alt="Blue Arrow" src="wp-content/themes/bluearrow/dist/images/ba-logo.svg">
         </a>
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
           <span class="sr-only">Toggle navigation</span>
