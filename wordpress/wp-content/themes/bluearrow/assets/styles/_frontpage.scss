@@ -30,7 +30,8 @@
         .bluearrow {
             position: absolute;
             bottom: -230px;
-            left: -21px;
+            left: -12px;
+            width: 42px;
 
             @media (max-width: $screen-sm-min) {
                 display: none;

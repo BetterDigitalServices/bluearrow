@@ -7,8 +7,8 @@
 
 a, a:hover, a:visited, a:focus {
   color: inherit;
-  font-weight: bold;
   text-decoration: underline;
+  letter-spacing: 0.5px;
 }
 
 .conditionally-centered-text {
@@ -93,11 +93,12 @@ main {
 }
 
 .col-text {
-  margin-top: 30px;
+  margin-top: 40px;
+  letter-spacing: 0.5px;
 }
 
 .col-icon img {
-  margin-top: 55px;
+  margin-top: 65px;
   width: 4.5em;
   height: 4.5em;
 }
@@ -109,24 +110,22 @@ main {
 .award-row {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .award {
     position: relative;
-    display: inline-block;
+    display: block;
     width: 31%;
     margin-top: 10px;
     text-align: center;
     background: #d3ecdf;
-    padding: 20px;
+    padding: 20px 10px;
     border: 5px solid $blue;
     text-decoration: none;
-    vertical-align: middle;
     font-family: CamptonLight;
-    font-size: 16px;
-    font-weight: bold;
-    line-height: 1.4em;
+    font-size: 12px;
+    min-height: 80px;
 
     &:before {
         content: '';
@@ -140,11 +139,12 @@ main {
 
     @media (max-width: 500px) {
         width: 100%;
+        min-height: auto;
     }
 }
 
 .jury {
-  margin-top: 2em;
+  margin-top: 80px;
 
   div {
     text-align: center;
@@ -152,10 +152,14 @@ main {
 
   h4 {
     color: #fff;
-    font-family: 'CamptonBold';
+    font-family: 'Campton';
     font-weight: normal;
     position: relative;
-    top: -80px;
+    top: -40px;
+    text-align: left;
+    padding: 0px 20px;
+    letter-spacing: 1px;
+    font-size: 14px;
   }
   img {
     @include box-shadow(0 8px 25px $shadow);

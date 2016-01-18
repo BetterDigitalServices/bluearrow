@@ -118,7 +118,7 @@
   $(document).ready(UTIL.loadEvents);
 
   // Bind to Bootstrap navigation collapse
-  $(function(){ 
+  $(function(){
   var nav = $('nav .collapse');
     nav.on('click', 'a', null, function () {
       nav.collapse('hide');

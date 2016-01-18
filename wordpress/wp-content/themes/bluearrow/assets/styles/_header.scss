@@ -24,6 +24,13 @@ nav {
     min-height: 90px;
   }
 
+  &.navbar-static-top {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+  }
+
   .navbar-brand {
     padding: 10px;
 
