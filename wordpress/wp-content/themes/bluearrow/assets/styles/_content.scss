@@ -103,6 +103,26 @@ main {
   height: 4.5em;
 }
 
+h1 {
+    position: relative;
+
+    @media (max-width: $screen-sm-min) {
+        margin: 24px;
+    }
+
+    span {
+        position: relative;
+
+        img {
+            position: absolute;
+            left: 0;
+            bottom: -15px;
+            width: 100%;
+        }
+
+    }
+}
+
 .award-grid {
   @include container-fixed($gutter: 20px);
 }

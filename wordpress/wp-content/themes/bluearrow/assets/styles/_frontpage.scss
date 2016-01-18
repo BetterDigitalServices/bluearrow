@@ -1,32 +1,5 @@
 #page-frontpage {
-    h1.frontpageheader {
-        position: relative;
-
-        @media (max-width: $screen-sm-min) {
-            margin: 24px;
-        }
-
-        span {
-            position: relative;
-
-            img {
-                position: absolute;
-                left: 0;
-                bottom: -20px;
-
-                @media (max-width: $screen-sm-min) {
-                    width: 230px;
-                    bottom: -16px;
-                }
-
-                @media(max-width:480px) {
-                    width: 172px;
-                    bottom: -12px;
-                }
-            }
-
-        }
-
+    h1 {
         .bluearrow {
             position: absolute;
             bottom: -230px;
