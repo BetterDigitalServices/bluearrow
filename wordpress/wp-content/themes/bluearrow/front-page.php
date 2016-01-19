@@ -4,7 +4,7 @@
         <div class="col-md-2 col-md-offset-1">
             <div class="rotate">
                 <h4>award ceremony
-                    april 2016
+                    may 2016
                     helsinki/finland</h4>
             </div>
         </div>
