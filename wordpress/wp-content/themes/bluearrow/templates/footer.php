@@ -23,6 +23,7 @@
     </div>
   </div>-->
   <div class="container organiser-container">
+      <!--
     <div class="row row-centered">
       <p class="col-md-12">
         Blue arrow is organised by Better Digital Services Finland.
@@ -33,6 +34,7 @@
         </h4>
       </div>
     </div>
+-->
     <div class="row row-centered">
       <div class="col-md-1 col-centered">
         <a href="http://codento.fi/">

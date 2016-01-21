@@ -18,13 +18,22 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right mainnav ">
-          <!--<li><a href="#"><img alt="Who are we?" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Who are we?</a></li>-->
+          <li><a href="/"><img alt="Frontpage" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">Frontpage</a></li>
+          <li><a href="#"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
+          <li><a href="http://betterdigitalservices.github.io/manifesto/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Manifest</a></li>
+          <!--
+          <li class="dropdown">
+              <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a>
+              <ul class="dropdown-menu">
+                  <li><a href="/">Disruption award</li></li>
+                  <li><a href="/">Another</li></li>
+              </ul>
+          </li>
           <li><a href="#schedule"><img alt="Schedule" src="wp-content/themes/bluearrow/dist/images/schedule.svg">Schedule</a></li>
           <li><a href="#gala"><img alt="Gala" src="wp-content/themes/bluearrow/dist/images/gala.svg">Gala</a></li>
           <li><a href="#jury"><img alt="Jury" src="wp-content/themes/bluearrow/dist/images/jury.svg">Jury</a></li>
-          <li><a href="#categories"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
-          <li><a href="#betheimpact"><img alt="Be the impact" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">Be the Impact</a></li>
           <li><a href="#contact"><img alt="contact" src="wp-content/themes/bluearrow/dist/images/contact.svg">Contact</a></li>
+            -->
           <li class="bluenav"><a href="#" aria-hidden="false">Entries open<br>25.1.2016</a></li>
         </ul>
       </div>
