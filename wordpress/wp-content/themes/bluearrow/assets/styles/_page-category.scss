@@ -103,9 +103,9 @@
     .row {
         .separator {
             height: 20px;
-            background: url('../../assets/images/wave.svg');
-            background-repeat: repeat-x;
-            background-size: 25%;
+            background: url('../../assets/images/wavedivider.svg');
+            background-repeat: no-repeat;
+            background-size: contain;
         }
     }
 }
