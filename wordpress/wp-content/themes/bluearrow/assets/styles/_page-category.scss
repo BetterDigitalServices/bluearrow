@@ -57,15 +57,25 @@
     .assistjudges {
         text-align: center;
 
+        > .row {
+            text-align: center;
+
+            > div {
+                display: inline-block;
+                margin: 0px 20px;
+                max-width: 220px;
+                vertical-align: top;
+            }
+        }
+
         h3 {
-            margin-bottom: 50px;
+            margin-bottom: 30px;
         }
 
         h2 {
             margin: 15px 0;
             font-size: 14px;
             text-transform: uppercase;
-            min-height: 2em;
             font-weight: bold;
         }
         h4 {

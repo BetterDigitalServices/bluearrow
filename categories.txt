@@ -1,0 +1,598 @@
+<div class="row mainheader">
+    <div class="col-md-2 col-md-offset-1">
+        <div class="rotate">
+            <h4 id="societal-influence-award">Societal Influence Award</h4>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h1 class="frontpageheader">
+            Service with the Most Impact on <span>Society.<img src="wp-content/themes/bluearrow/dist/images/wave.svg"></span>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img src="wp-content/themes/bluearrow/dist/images/arrowdown.svg" alt="" />
+    </div>
+    <div class="col-md-7">
+        <p>
+            In this category a digital effort that has impacted the lives of citizens, making the life easier or the whole society more efficient. It is a digital phenomenon that has transformed our everyday life, saved or prolonged our lives or made the whole economy run smoother.
+        </p>
+        <p>
+            We award this prize to a Service that has created a measurable impact on the level of the whole society/economy or transformed the life of a significant minority.
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+    </div>
+    <div class="col-md-7 judgeinfo">
+        <h3>Main judge</h3>
+        <h2>Jyrki Kasvi</h2>
+        <h4>Ph.D. (Engineering) Jyrki Kasvi is a member of the Finnish Parliament and the chair of the Espoo City Council.</h4>
+        <hr>
+        <p>
+            In addition to a political career, Jyrki Kasvi has worked as Research and Development Manager of the Finnish Information Society Development Centre and research scientist in the Helsinki University of Technology. Jyrki Kasvi’s particular areas of interest include information society, quality of work life, university policies, entrepreneurship and equality and tolerance.
+        </p>
+    </div>
+</div>
+<div class="row assistjudges">
+    <h3>Assisting jury</h3>
+    <div class="row">
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Petri Heiramo</h2>
+            <h4>Organisational coach, Futurice</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Petri Suhonen</h2>
+            <h4>Passionate director, customer relations, Gofore</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Riitta Alkula</h2>
+            <h4>Senior service architect, Vincit</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <h3>Evaluation criteria</h3>
+        <ul>
+            <li>Quantified economic impact - how many people, how much</li>
+            <li>Societal impact - how much and why the things are better now</li>
+            <li>Impact on a single person/minority group’s everyday life</li>
+            <li>The quality of impact</li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <a href="https://ssl.eventilla.com/blue-arrow-societal-influence-award" class="awardbutton">Apply for this award</a>
+    </div>
+</div>
+<div class="row separator">
+    <div class="col-md-8 col-md-offset-2 separator">
+    </div>
+</div>
+
+
+<div class="row mainheader">
+    <div class="col-md-2 col-md-offset-1">
+        <div class="rotate">
+            <h4 id="customer-experience-award">Customer Experience Award</h4>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h1 class="frontpageheader">
+            Digital Service that Customers <span>Love.<img src="wp-content/themes/bluearrow/dist/images/wave.svg"></span>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img src="wp-content/themes/bluearrow/dist/images/arrowdown.svg" alt="" />
+    </div>
+    <div class="col-md-7">
+        <p>
+            This category awards the customer experience that is loved by their customers. Such services are easy and enjoyable to use; they improve the life of their users while making the best use of their time and money. At best, the user’s experience from the very first to the last transaction - within the application and outside of it - is so smooth that the user hardly recognises any effort. Often such services almost feel like having a soul of their own.
+        </p>
+        <p>
+            We award this prize to a <strong>Service</strong> that is loved by its end-users whether they are consumers, employees or citizens.
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+    </div>
+    <div class="col-md-7 judgeinfo">
+        <h3>Main judge</h3>
+        <h2>Marina Vahtola</h2>
+        <h4>Chairman and Board Member, Executive in Residence<br>Aalto University, Marketing</h4>
+        <hr>
+        <p>
+            Chairman and Board Member Marina Vahtola works as an Executive in Residence at Aalto University’s marketing department, in the board of several Finnish companies and as a senior adviser in big international franchising companies. Additionally she has several international positions of trust.
+        </p>
+        <p>
+            Vahtola has over 25 years of experience of top management in big corporations. She has worked as the CEO of Bauhaus Finland and Estonia for over 10 years. Vahtola’s expertise include branding and concept work, developing e-commerce and franchising especially in retail trade.
+        </p>
+    </div>
+</div>
+<div class="row assistjudges">
+    <h3>Assisting jury</h3>
+    <div class="row">
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Juha Jauhiainen</h2>
+            <h4>Design director, Exove</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Karri-Pekka Laakso</h2>
+            <h4>Lead designer, Reaktor</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Lassi A Liikkanen</h2>
+            <h4>Lead design analyst, SC5</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Virve Kuorelahti</h2>
+            <h4>Senior UX designer, Gofore</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <h3>Evaluation criteria</h3>
+        <ul>
+            <li>How much the service improves the lives of the users</li>
+            <li>How relevant is the service for the users</li>
+            <li>How easy the service is to use</li>
+            <li>Why does the service improve users’ lives</li>
+            <li>What evidence do you have of customer love</li>
+            <li>How does it differentiate from competition or previous versions</li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <a href="https://ssl.eventilla.com/blue-arrow-customer-experience-award" class="awardbutton">Apply for this award</a>
+    </div>
+</div>
+<div class="row separator">
+    <div class="col-md-8 col-md-offset-2 separator">
+    </div>
+</div>
+
+<div class="row mainheader">
+    <div class="col-md-2 col-md-offset-1">
+        <div class="rotate">
+            <h4 id="robust-code-award">Robust Code Award</h4>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h1 class="frontpageheader">
+            Service for Cutting Edge Software <span>Engineering.<img src="wp-content/themes/bluearrow/dist/images/wave.svg"></span>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img src="wp-content/themes/bluearrow/dist/images/arrowdown.svg" alt="" />
+    </div>
+    <div class="col-md-7">
+        <p>
+            This category awards the hard engineering effort on smooth operations and efficient development. We cheer technical greatness, exceptional algorithms and smart technical innovations that take into consideration also maintainability by a large/evolving community and long life-span.
+        </p>
+        <p>
+            We award this prize to the code that stands the test of time and award the <strong>Team</strong> that maintains the robust code. Your code may be a full system, exceptional library or a superb algorithm.
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+    </div>
+    <div class="col-md-7 judgeinfo">
+        <h3>Main judge</h3>
+        <h2>Michael "Monty" Widenius</h2>
+        <h4>Founder and CTO at MariaDB Foundation</h4>
+        <hr>
+        <p>
+            Monty is the creator and lead programmer of MySQL &amp; MariaDB. He is also the founder of MySQL AB, MariaDB Corporation, MariaDB Foundation and Open Ocean Capital. He is software architect and designer having long experience in creating open source community.
+        </p>
+    </div>
+</div>
+<div class="row assistjudges">
+    <h3>Assisting jury</h3>
+    <div class="row">
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Atte Kojo</h2>
+            <h4>Programmer, Reaktor</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Lauri Hahne</h2>
+            <h4>Software engineer, Gofore</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Mikko "Pekkis" Forsström</h2>
+            <h4>Lead software developer, Fraktio</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Lauri Svan</h2>
+            <h4>Head of technology, SC5</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <h3>Evaluation criteria</h3>
+        <ul>
+            <li>Robustness of the service (always up and responsive)</li>
+            <li>Business impact</li>
+            <li>Good, readable code</li>
+            <li>Modularity</li>
+            <li>Easy extendability</li>
+            <li>Scalability</li>
+            <li>Release history and short release cycle</li>
+            <li>Plus points for an open community effort (open API or open source project)</li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <a href="https://ssl.eventilla.com/blue-arrow-robust-code-award" class="awardbutton">Apply for this award</a>
+    </div>
+</div>
+<div class="row separator">
+    <div class="col-md-8 col-md-offset-2 separator">
+    </div>
+</div>
+
+<div class="row mainheader">
+    <div class="col-md-2 col-md-offset-1">
+        <div class="rotate">
+            <h4 id="propellerhead-award">Propellerhead award</h4>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h1 class="frontpageheader">
+            Award for Personal Impact on the <span>Industry.<img src="wp-content/themes/bluearrow/dist/images/wave.svg"></span>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img src="wp-content/themes/bluearrow/dist/images/arrowdown.svg" alt="" />
+    </div>
+    <div class="col-md-7">
+        <p>
+            We need innovation, new ideas and sometimes shocks to get our industry to move forward. To encourage this brave behavior, we introduce the propellerhead category - an award for personal or collective impact on the industry.
+        </p>
+        <p>
+            We award this prize to a <strong>Person or a Team</strong> who has created something that benefits us all, such as a new way of working or raised important issue to general awareness. Name a person/team that you deeply respect!
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+    </div>
+    <div class="col-md-7 judgeinfo">
+        <h3>Main judge</h3>
+        <h2>Jarkko Oikarinen</h2>
+        <h4>Inventor of IRC</h4>
+        <hr>
+        <p>
+            Jarkko is the inventor of Internet Relay Chat, and holds a PhD in Computer Graphics.
+        </p>
+        <p>
+            He has over 30 years of experience in various fields, from text and video chat to neurosurgical workstations to medical imaging to graphics algorithms to mobile phones and games, in multiple startups, university research groups and larger companies. He is currently Technical Lead Manager in Google Sweden, where he is back innovating on chat systems, this time using video and audio.
+        </p>
+    </div>
+</div>
+<div class="row assistjudges">
+    <h3>Assisting jury</h3>
+    <div class="row">
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Janne Kalliola</h2>
+            <h4>CEO, Exove</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Mikko Väätäinen</h2>
+            <h4>Business designer, Solita</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Petri Kainulainen</h2>
+            <h4>Passionate unarchitect, Vincit</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Petri Takala</h2>
+            <h4>Principal consultant, Gofore</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <h3>Evaluation criteria</h3>
+        <ul>
+            <li>The level of adoption within the industry or the whole society</li>
+            <li>The benefit for the industry/society</li>
+            <li>The novelty of the effort</li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <a href="https://ssl.eventilla.com/blue-arrow-propellerhead-award" class="awardbutton">Apply for this award</a>
+    </div>
+</div>
+<div class="row separator">
+    <div class="col-md-8 col-md-offset-2 separator">
+    </div>
+</div>
+
+<div class="row mainheader">
+    <div class="col-md-2 col-md-offset-1">
+        <div class="rotate">
+            <h4 id="disruption-award">Disruption Award</h4>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h1 class="frontpageheader">
+            Award for a Digital Solution that Changed the <span>Industry.<img src="wp-content/themes/bluearrow/dist/images/wave.svg"></span>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img src="wp-content/themes/bluearrow/dist/images/arrowdown.svg" alt="" />
+    </div>
+    <div class="col-md-7">
+        <p>
+            This category celebrate the moment when David takes on Goliath. Disruption is about a novel approach to win a market share or create a new market that did not exist before.
+        </p>
+        <p>
+            We award the prize for teams or organizations for revolutionary ways of making business and doing things differently.
+        </p>
+    </div>
+</div>
+<!--
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+    </div>
+    <div class="col-md-7 judgeinfo">
+        <h3>Main judge</h3>
+        <h2>Jarkko Oikarinen</h2>
+        <h4>Inventor of IRC</h4>
+        <hr>
+        <p>
+            Jarkko is the inventor of Internet Relay Chat, and holds a PhD in Computer Graphics.
+        </p>
+        <p>
+            He has over 30 years of experience in various fields, from text and video chat to neurosurgical workstations to medical imaging to graphics algorithms to mobile phones and games, in multiple startups, university research groups and larger companies. He is currently Technical Lead Manager in Google Sweden, where he is back innovating on chat systems, this time using video and audio.
+        </p>
+    </div>
+</div>
+-->
+<div class="row assistjudges">
+    <h3>Assisting jury</h3>
+    <div class="row">
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Jussi Ahola</h2>
+            <h4>Designer and product thinker, Vincit</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Lassi Kurkijärvi</h2>
+            <h4>VP new business, Solita</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Mikko Kolehmainen</h2>
+            <h4>Principal consultant, Gofore</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <h3>Evaluation criteria</h3>
+        <ul>
+            <li>The solution has captured a underserved “low-end” market or introduced a new one</li>
+            <li>The disruptive impact created on an existing industry/market</li>
+            <li>The The disruptive impact the nominee has had on peoples’ lives</li>
+            <li>The disruptive impact the nominee has on society</li>
+            <li>The disruptive approach has attracted a support network</li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <a href="http://www.eventilla.com/blue-arrow-disruption-award" class="awardbutton">Apply for this award</a>
+    </div>
+</div>
+<div class="row separator">
+    <div class="col-md-8 col-md-offset-2 separator">
+    </div>
+</div>
+
+<div class="row mainheader">
+    <div class="col-md-2 col-md-offset-1">
+        <div class="rotate">
+            <h4 id="best-performing-team-award">Best Performing Team Award</h4>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h1 class="frontpageheader">
+            Award for a Functional Team and a Flourishing Work <span>Culture.<img src="wp-content/themes/bluearrow/dist/images/wave.svg"></span>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img src="wp-content/themes/bluearrow/dist/images/arrowdown.svg" alt="" />
+    </div>
+    <div class="col-md-7">
+        <p>
+            This category promotes exceptionally brave working cultures that have challenged the traditional ways of working. Through trial error, they have created an innovative environment that constantly shows good results. We would like to see goal oriented teams taking responsibility not from their product, but for the business impact they are trying to make and end customers they are serving.
+        </p>
+        <p>
+            We award this prize to a <strong>Team</strong> that has created a functional, creative and sustainable work culture that not only help the organisation reach its goals, but that is able to respond to the constant change.
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+    </div>
+    <div class="col-md-7 judgeinfo">
+        <h3>Main judge</h3>
+        <h2>Jukka Lindström</h2>
+        <h4>Vice President, Digital Transformation at Cargotec, a leading provider of cargo handling solutions.</h4>
+        <hr>
+        <p>
+            Jukka started as a software developer and during the dot-com boom he founded two technology startups. He moved to consulting in 2003. Jukka was one of the first to start promoting Scrum and Agile methods in Finland. He shifted his focus from coding to coaching people when he realised the potential of great team work and collaboration. He has coached and trained over a hundred teams and thousands of people in organisations and projects of all kind in agile methods, teamwork and leadership. For the past 7 years he has shifter to the company level working as a change catalyst, coach and a leader in many transformations towards business and development agility.
+        </p>
+    </div>
+</div>
+<div class="row assistjudges">
+    <h3>Assisting jury</h3>
+    <div class="row">
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Eemeli Kantola</h2>
+            <h4>Senior software consultant, Futurice</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Jesse Peurala</h2>
+            <h4>Managing director, Fraktio</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Marko Klemetti</h2>
+            <h4>CTO, Eficode</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <h3>Evaluation criteria</h3>
+        <ul>
+            <li>The results the team is able to deliver</li>
+            <li>The impact for the whole organisation around the team</li>
+            <li>The smart practices that make the team exceptionally creative and/or productive</li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <a href="http://www.eventilla.com/blue-arrow-best-performing-team" class="awardbutton">Apply for this award</a>
+    </div>
+</div>
+<div class="row separator">
+    <div class="col-md-8 col-md-offset-2 separator">
+    </div>
+</div>
+
+
+<div class="row mainheader">
+    <div class="col-md-2 col-md-offset-1">
+        <div class="rotate">
+            <h4 id="epic-purchasing-award">Epic Purchasing Award</h4>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h1 class="frontpageheader">
+            Award for Navigating the Pitfalls of Project <span>Purchasing.<img src="wp-content/themes/bluearrow/dist/images/wave.svg"></span>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img src="wp-content/themes/bluearrow/dist/images/arrowdown.svg" alt="" />
+    </div>
+    <div class="col-md-7">
+        <p>
+            This category celebrates the smart way of purchasing. In a healthy business relation, the both parties win, the collaboration is open and mutually beneficial. The goals are clear, execution is solid and the results exceed expectations.
+        </p>
+        <p>
+            We award this prize to a <strong>Customer</strong> that has find the way to establish a mutually beneficial relationship, achieving the best value for the money and time.
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+    </div>
+    <div class="col-md-7 judgeinfo">
+        <h3>Main judge</h3>
+        <h2>Mikael Jungner</h2>
+        <h4>CEO of Kreab Helsinki</h4>
+        <hr>
+        <p>
+            Mikael Jungner is the CEO of Kreab Helsinki. He has worked as a researcher, but also in politics, media and software industry. Jugner is fascinated by the social media, startup entrepreneurship, interaction and the business models of digital era.
+        </p>
+    </div>
+</div>
+<div class="row assistjudges">
+    <h3>Assisting jury</h3>
+    <div class="row">
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Jukka Aaltonen</h2>
+            <h4>COO, Eficode</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Jussi Hacklin</h2>
+            <h4>Business director, Futurice</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Vesa Teikari</h2>
+            <h4>Business director, Houston</h4>
+        </div>
+        <div>
+            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <h2>Karoliina Luoto</h2>
+            <h4>New business director, Codento</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <h3>Evaluation criteria</h3>
+        <ul>
+            <li>Mutually beneficial business relationship</li>
+            <li>Clarity of the goals and transparency of the process</li>
+            <li>Smart use of investment, constant results and controlled risk</li>
+            <li>Relevancy of the end product and return on the investment</li>
+            <li>Mode of collaboration that helps respond change and seize new opportunities</li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-7 col-md-offset-3">
+        <a href="http://www.eventilla.com/blue-arrow-epic-purchasing-award" class="awardbutton">Apply for this award</a>
+    </div>
+</div>
+<div class="row separator">
+    <div class="col-md-8 col-md-offset-2 separator">
+    </div>
+</div>
