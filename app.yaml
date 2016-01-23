@@ -16,6 +16,8 @@ handlers:
   static_files: wordpress/wp-content/\1
   upload: wordpress/wp-content/.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg)$
   application_readable: true
+  http_headers:
+      Access-Control-Allow-Origin: https://ssl.eventilla.com
 
 - url: /(.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg))$
   static_files: wordpress/\1
