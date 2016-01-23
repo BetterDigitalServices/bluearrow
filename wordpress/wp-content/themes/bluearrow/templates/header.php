@@ -20,7 +20,7 @@
         <ul class="nav navbar-nav navbar-right mainnav ">
           <li><a href="/"><img alt="Frontpage" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">Frontpage</a></li>
           <li><a href="/categories/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
-          <li><a href="http://betterdigitalservices.github.io/manifesto/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Manifesto</a></li>
+          <li><a href="/manifesto/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Manifesto</a></li>
           <!--
           <li class="dropdown">
               <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a>
