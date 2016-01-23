@@ -252,6 +252,21 @@ h1 {
   }
 }
 
+#schedule {
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  li {
+    margin-bottom: 1em;
+  }
+  li:before {
+    padding-right: 0.5em;
+    content: "→";
+  }
+
+}
+
 .manifesto {
   
   #manifesto-title {
