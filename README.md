@@ -59,6 +59,13 @@ If you want to set up the system from scratch, follow these 15-minute instructio
 
 * Follow the [WP quick start instructions for App Engine](https://googlecloudplatform.github.io/appengine-php-wordpress-starter-project/)
 
+## Note on Let's Encrypt Certificates
+
+The certificates for this site have been generated using http://www.letsencrypt.org/, using the following instructions: [https://medium.com/@samthor/let-s-encrypt-with-app-engine-8047b0642895#.v3kidstc8](https://medium.com/@samthor/let-s-encrypt-with-app-engine-8047b0642895#.v3kidstc8)
+
+This means you need to renew your certificate every three months - don't forget to do that!
+
+In practice what you need to do is run letsencrypt cli every few months, follow the console instructions on what challenge key you'll upload into .well-known/acme-challenge, and re-deploy your website.
 
 ### Deployment using Docker
 

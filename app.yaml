@@ -4,6 +4,9 @@ runtime: php55
 api_version: 1
 
 handlers:
+- url: /.well-known
+  static_dir: .well-known
+
 - url: /(.*\.(htm|html|css|js))$
   static_files: wordpress/\1
   upload: wordpress/.*\.(htm|html|css|js)$
