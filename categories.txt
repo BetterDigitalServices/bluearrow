@@ -25,7 +25,7 @@
 </div>
 <div class="row">
     <div class="col-md-2 col-md-offset-1">
-        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/OerebOwzBbxmRizNEBIs8fJVIUr8NSym4yqldBswkDxBhadTPwiEa4SSf9jiuCjJ39ds7uxXGg6X6KYrTGEQT_L-aIZbAJYOBKI=s150-c" alt="Jyrki Kasvi" width="150" height="150" class="judgeimg" />
     </div>
     <div class="col-md-7 judgeinfo">
         <h3>Main judge</h3>
@@ -41,17 +41,17 @@
     <h3>Assisting jury</h3>
     <div class="row">
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/kRkmlG5MmMjWZX_LPozVu9_RcNzcdigHpuXqaHtnOXhqpQMD0_i2zePXE7xw5n-diW1yBTCLC1YPcBLkD7LkaAz-w9mNMLW1MQ=s0" alt="petri_heiramo" class="judgeimg" />
             <h2>Petri Heiramo</h2>
             <h4>Organisational coach, Futurice</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <img class="judgeimg" alt="" src="https://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
             <h2>Petri Suhonen</h2>
             <h4>Passionate director, customer relations, Gofore</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/jGdzVD_td2DszVdTB6_V8fRA9nEM6pXbFJg30IVCdVVzaXM3xcdvhQ3KrL8mQ2b0OpvIVr2m8vV1KaCDQIl0ahmlHIt6mJiaoYU=s0" alt="riitta_alkula" class="judgeimg" />
             <h2>Riitta Alkula</h2>
             <h4>Senior service architect, Vincit</h4>
         </div>
@@ -106,7 +106,7 @@
 </div>
 <div class="row">
     <div class="col-md-2 col-md-offset-1">
-        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/u_lrd45SgU50zyOzIMAam2DVuLhaVtFNAk1Qyw3h1JYp4wHor4PFRJfEJiGz9RkUIk6MU7e8HOJzoGwT90-BIEoamsQRK9pLqw=s150-c" alt="Marina Vahtola" width="150" height="150" class="judgeimg" />
     </div>
     <div class="col-md-7 judgeinfo">
         <h3>Main judge</h3>
@@ -125,22 +125,22 @@
     <h3>Assisting jury</h3>
     <div class="row">
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/G-fcpqD2684Ng71oV89rm-XrJb8ns8vzo4r4tOUOUuCfmegx8CajF0u5nsxsZ_gvnxkrfzQiAhGg3TxLLXKmyGZ7SGGpjAsJPg=s0" alt="Juha-Jauhiainen" class="judgeimg" />
             <h2>Juha Jauhiainen</h2>
             <h4>Design director, Exove</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/g75QdC0osVRdxVDdEtP2GmBMehNrYsoNB-ulFBYZowyTi6CXeKbBwoab1JFlsIDXY6FoXW_RuzgUij83Ag33bK4BNKp_TXHs1rs=s0" alt="karripekkalaakso" class="judgeimg" />
             <h2>Karri-Pekka Laakso</h2>
             <h4>Lead designer, Reaktor</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/8HqS9PEHz4OIE1VIMG34xqabYrVwzN3aEAL5Nrfbgx7FojMI4Uts9FNCTIr5CFKF13a2XVLMAUu5rSTGfYErp1ive_69YxupsVk=s0" alt="Lassi-A-Liikkanen" class="judgeimg" />
             <h2>Lassi A Liikkanen</h2>
             <h4>Lead design analyst, SC5</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/vUvkdnUON0m7F66PXP1UbUwMks56T9FW9EA3xT4W52GOHHpdo69ycwVjAByI_nSMK3CnQJXuJcyy0d-U02wZ-rqN2r1CCnKrEvI=s0" alt="Virve_Kuorelahti" class="judgeimg" />
             <h2>Virve Kuorelahti</h2>
             <h4>Senior UX designer, Gofore</h4>
         </div>
@@ -196,7 +196,7 @@
 </div>
 <div class="row">
     <div class="col-md-2 col-md-offset-1">
-        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/j5YjJnBT1AaPmmSUh0aECnQhvPOIXesAnFTaXAsM8PGkEMs49HGnPSiNEHswFhHsAqo1U8iD5rc7Q_uE8NNyG_uIPyakX-FBvno=s150-c" alt="Michael Widenius" width="150" height="150" class="judgeimg" />
     </div>
     <div class="col-md-7 judgeinfo">
         <h3>Main judge</h3>
@@ -212,22 +212,22 @@
     <h3>Assisting jury</h3>
     <div class="row">
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/QaTGSakabTI79kiTfEQGh3CldekfkAMqmUX6a1nOp6Ock6HnGcjua5muT1WlgOUeeVwHE7SL5Bdlm3XYxlAmnHZ5WN8DOHMjya0=s0" alt="atte_kojo" class="judgeimg" />
             <h2>Atte Kojo</h2>
             <h4>Programmer, Reaktor</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/RU22MQK494VX1UQTDVLQpJ8hRhA5t7x63ypQ-OofWJ0phA4g_MDNQTbpNxK1nlhMorR6zVDfH2a-V2pPZ6ey1nddwJqeeVwLOw=s0" alt="lauri_hahne" class="judgeimg" />
             <h2>Lauri Hahne</h2>
             <h4>Software engineer, Gofore</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/xbW6hCQKItT9yg92j3h2r6_AuySmrGcFaBHa1qvtlTG8yy346AJk6lsS8nzZtxa_V_zFCNGAyeVyCxwAUP7d4w2iiIybp9hr1vuX=s0" alt="mikko_forsstrom" class="judgeimg" />
             <h2>Mikko "Pekkis" Forsström</h2>
             <h4>Lead software developer, Fraktio</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <img class="judgeimg" alt="" src="https://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
             <h2>Lauri Svan</h2>
             <h4>Head of technology, SC5</h4>
         </div>
@@ -285,7 +285,7 @@
 </div>
 <div class="row">
     <div class="col-md-2 col-md-offset-1">
-        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/gEpxm5IdNQPfeVUvcs1nBc8UHVcztO2YGJ_yIrqxBMN8IKGC5TrAbKSTeSGtt86t1bSe-kpKQ7TFGgM3T8d2ha-Pqtse9Yhp6JI=s150-c" alt="Jarkko Oikarinen" width="150" height="150" class="judgeimg" />
     </div>
     <div class="col-md-7 judgeinfo">
         <h3>Main judge</h3>
@@ -304,22 +304,23 @@
     <h3>Assisting jury</h3>
     <div class="row">
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+
+            <img class="judgeimg" alt="" src="https://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
             <h2>Janne Kalliola</h2>
             <h4>CEO, Exove</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/vQa7bjjAbmnLWhfn042n4zFl0gD7WhM3n3izx_EPccjc-Iy7fDpBJGv1vUG1ArZFNmQvBh0mBkbH1OQqMJxqyAXpm8kBHJ8Ni1TR=s0" alt="mikko_vaatainen" class="judgeimg" />
             <h2>Mikko Väätäinen</h2>
             <h4>Business designer, Solita</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/8BLR2KESIGKrtzFjSwW7JI4xGX6TRJrChU4t2d6AYVafXC-pgmFN2eNcsuHRWzKNHqkIPzlQMNoxe6P4xKbqHV4wYB3sPmkSAlQ=s0" alt="petri_kainulainen" class="judgeimg" />
             <h2>Petri Kainulainen</h2>
             <h4>Passionate unarchitect, Vincit</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <img class="judgeimg" alt="" src="https://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
             <h2>Petri Takala</h2>
             <h4>Principal consultant, Gofore</h4>
         </div>
@@ -373,7 +374,7 @@
 <!--
 <div class="row">
     <div class="col-md-2 col-md-offset-1">
-        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+        <img class="judgeimg" alt="" src="https://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
         <h3>Main judge</h3>
@@ -393,17 +394,17 @@
     <h3>Assisting jury</h3>
     <div class="row">
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/4T2jKDueQlm3uuePmRqni88VpeXqxzDIQE8zxJosK_3E5n6bHPWgheihRf2laC2CMYVuiLf6ksMcqdGl5f6ZKeIhoknKosYjDUo=s0" alt="jussi_ahola" class="judgeimg" />
             <h2>Jussi Ahola</h2>
             <h4>Designer and product thinker, Vincit</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/Yz2OfUSnocZ07eTZ_C72DG7puJTeuHAxhsn4oqSBM2p6NYyjdwUfjEvmR7e3CAlzWh2bMiYYD_y3T7sCU8VdKWEiub5zkXT8xaQb=s0" alt="lassi_kurkijarvi" class="judgeimg" />
             <h2>Lassi Kurkijärvi</h2>
             <h4>VP new business, Solita</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/iHmO7G29i5FzSScTt1iKifsNUx_zGiPeZFgJxz95D25PcUb7vktkv_3PToIfDnyv6UOfJUzVje6FnRJPBdA24MYnZb5nAOFrim4=s0" alt="mikko_kolehmainen" class="judgeimg" />
             <h2>Mikko Kolehmainen</h2>
             <h4>Principal consultant, Gofore</h4>
         </div>
@@ -423,7 +424,7 @@
 </div>
 <div class="row">
     <div class="col-md-7 col-md-offset-3">
-        <a href="http://www.eventilla.com/blue-arrow-disruption-award" class="awardbutton">Apply for this award</a>
+        <a href="https://www.eventilla.com/blue-arrow-disruption-award" class="awardbutton">Apply for this award</a>
     </div>
 </div>
 <div class="row separator">
@@ -458,7 +459,7 @@
 </div>
 <div class="row">
     <div class="col-md-2 col-md-offset-1">
-        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/SVa8rH3yyIKajOb38ge2Yq2Qwra71i511ah_kwRsapwIfBGDN7FWv0rIXSi6e5pNGCw8sun4cuhBRvPHZModARoBrcdc0j9hnG4=s150-c" alt="Jukka Lindström" width="150" height="150" class="judgeimg" />
     </div>
     <div class="col-md-7 judgeinfo">
         <h3>Main judge</h3>
@@ -474,17 +475,17 @@
     <h3>Assisting jury</h3>
     <div class="row">
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/1ODWqTKtIAZcbLOobllb2jthBBX3TLxRKArr0Mbk4_vU6405hSgnfkT0lOveIEF2UMZXRSqf2BYDqhAZAu67GJQpWldr8YI4y__x=s0" alt="eemeli_kantola" class="judgeimg" />
             <h2>Eemeli Kantola</h2>
             <h4>Senior software consultant, Futurice</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/Orwn3Texq0yIx0nENPr_N4ZKGwH-crzfVXA5BpsDCou3qX9f55qssdkY_JrhsBlmijBe9RaocS9KhDig4_Xyd8H_G0KuiJFW6ok=s0" alt="jesse_peurala" class="judgeimg" />
             <h2>Jesse Peurala</h2>
             <h4>Managing director, Fraktio</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/nA3yW23pN5FgxM1YWcueugHh75uG5R4MyqZxqzQ_o6r9UMfIMqBUo7CbK_Gi81Rgc8NJDBF7OHJtjGbJ-7LxDOvwjw8jdN5s4Knz=s0" alt="marko_klemetti" class="judgeimg" />
             <h2>Marko Klemetti</h2>
             <h4>CTO, Eficode</h4>
         </div>
@@ -502,7 +503,7 @@
 </div>
 <div class="row">
     <div class="col-md-7 col-md-offset-3">
-        <a href="http://www.eventilla.com/blue-arrow-best-performing-team" class="awardbutton">Apply for this award</a>
+        <a href="https://www.eventilla.com/blue-arrow-best-performing-team" class="awardbutton">Apply for this award</a>
     </div>
 </div>
 <div class="row separator">
@@ -538,7 +539,7 @@
 </div>
 <div class="row">
     <div class="col-md-2 col-md-offset-1">
-        <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/MOgd_XUHmQni4IuICOKTzxOKDJ317ed62n689GE8B59vKKd0EesGjbmslNz5usqxtsCNKeHUC_kywlJeX6ZRXsvlJwFXpiChZA=s150-c" alt="Mikael Jungner" width="150" height="150" class="judgeimg" />
     </div>
     <div class="col-md-7 judgeinfo">
         <h3>Main judge</h3>
@@ -554,22 +555,22 @@
     <h3>Assisting jury</h3>
     <div class="row">
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/H8qCX8SbM97NpuUiOV9bqQ6l49zJuEkq2y6w5Un_v426xtXMCqw86kS9Ut8IwegMz2TTj4WWgIA1-IEfBi2cswTgkLX6CaXXzw=s0" alt="jukka_aaltonen" class="judgeimg" />
             <h2>Jukka Aaltonen</h2>
             <h4>COO, Eficode</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/OPTR4roIKZiqLGX7sR6tjCxEK_IN2OyuMM5W8rA8nfTsl7T4GCCI2rKF1Pxrruy4BAeopVD5j2pta_utZXPfg4LoZv5XnMxQzH0=s0" alt="jussi_hacklin" class="judgeimg" />
             <h2>Jussi Hacklin</h2>
             <h4>Business director, Futurice</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+<img src="https://lh3.googleusercontent.com/p-vQ58nLRG4zgR6OxsVA2uAsFw7dk9jSC4-4PC6tke2XRq8MZYbuHm3wIIf62DP_WctQcOZExS72H5apo7Dw7ReLGFU6FfKGtHM=s0" alt="vesa_teikari" class="judgeimg" />
             <h2>Vesa Teikari</h2>
             <h4>Business director, Houston</h4>
         </div>
         <div>
-            <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
+            <img class="judgeimg" alt="" src="https://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
             <h2>Karoliina Luoto</h2>
             <h4>New business director, Codento</h4>
         </div>
@@ -589,7 +590,7 @@
 </div>
 <div class="row">
     <div class="col-md-7 col-md-offset-3">
-        <a href="http://www.eventilla.com/blue-arrow-epic-purchasing-award" class="awardbutton">Apply for this award</a>
+        <a href="https://www.eventilla.com/blue-arrow-epic-purchasing-award" class="awardbutton">Apply for this award</a>
     </div>
 </div>
 <div class="row separator">
