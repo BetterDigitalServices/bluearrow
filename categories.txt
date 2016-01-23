@@ -24,7 +24,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+    <div class="col-md-2 col-md-offset-1">
         <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
@@ -58,7 +58,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-7 col-md-offset-3">
+    <div class="col-md-7 col-md-offset-3 evaluation">
         <h3>Evaluation criteria</h3>
         <ul>
             <li>Quantified economic impact - how many people, how much</li>
@@ -105,7 +105,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+    <div class="col-md-2 col-md-offset-1">
         <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
@@ -147,7 +147,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-7 col-md-offset-3">
+    <div class="col-md-7 col-md-offset-3 evaluation">
         <h3>Evaluation criteria</h3>
         <ul>
             <li>How much the service improves the lives of the users</li>
@@ -195,7 +195,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+    <div class="col-md-2 col-md-offset-1">
         <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
@@ -234,7 +234,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-7 col-md-offset-3">
+    <div class="col-md-7 col-md-offset-3 evaluation">
         <h3>Evaluation criteria</h3>
         <ul>
             <li>Robustness of the service (always up and responsive)</li>
@@ -284,7 +284,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+    <div class="col-md-2 col-md-offset-1">
         <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
@@ -326,7 +326,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-7 col-md-offset-3">
+    <div class="col-md-7 col-md-offset-3 evaluation">
         <h3>Evaluation criteria</h3>
         <ul>
             <li>The level of adoption within the industry or the whole society</li>
@@ -372,7 +372,7 @@
 </div>
 <!--
 <div class="row">
-    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+    <div class="col-md-2 col-md-offset-1">
         <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
@@ -410,7 +410,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-7 col-md-offset-3">
+    <div class="col-md-7 col-md-offset-3 evaluation">
         <h3>Evaluation criteria</h3>
         <ul>
             <li>The solution has captured a underserved “low-end” market or introduced a new one</li>
@@ -457,7 +457,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+    <div class="col-md-2 col-md-offset-1">
         <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
@@ -491,7 +491,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-7 col-md-offset-3">
+    <div class="col-md-7 col-md-offset-3 evaluation">
         <h3>Evaluation criteria</h3>
         <ul>
             <li>The results the team is able to deliver</li>
@@ -537,7 +537,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-2 col-md-offset-1 col-bluearrow">
+    <div class="col-md-2 col-md-offset-1">
         <img class="judgeimg" alt="" src="http://lh3.googleusercontent.com/D478mDBJXIE0B8kYqXTf9k1DUfHE223Z0DRPJ4SkqJFyjw-cKkXWlyKqrULngyCHmyarQ0FxjQvkLiTEyqgYXIsZGtiOQ9foZAg=s300">
     </div>
     <div class="col-md-7 judgeinfo">
@@ -576,7 +576,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-7 col-md-offset-3">
+    <div class="col-md-7 col-md-offset-3 evaluation">
         <h3>Evaluation criteria</h3>
         <ul>
             <li>Mutually beneficial business relationship</li>

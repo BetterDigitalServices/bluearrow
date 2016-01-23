@@ -106,10 +106,6 @@ main {
 h1 {
     position: relative;
 
-    @media (max-width: $screen-sm-min) {
-        margin: 24px;
-    }
-
     span {
         position: relative;
 
