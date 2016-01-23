@@ -19,7 +19,7 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right mainnav ">
           <li><a href="/"><img alt="Frontpage" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">Frontpage</a></li>
-          <li><a href="#"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
+          <li><a href="/categories/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
           <li><a href="http://betterdigitalservices.github.io/manifesto/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Manifest</a></li>
           <!--
           <li class="dropdown">
