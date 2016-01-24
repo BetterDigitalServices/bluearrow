@@ -34,7 +34,7 @@
           <li><a href="#jury"><img alt="Jury" src="wp-content/themes/bluearrow/dist/images/jury.svg">Jury</a></li>
           <li><a href="#contact"><img alt="contact" src="wp-content/themes/bluearrow/dist/images/contact.svg">Contact</a></li>
             -->
-          <li class="bluenav"><a href="#" aria-hidden="false">Entries open<br>25.1.2016</a></li>
+          <li class="bluenav"><a href="/categories/" aria-hidden="false">Entries open<br>25.1.2016</a></li>
         </ul>
       </div>
 
