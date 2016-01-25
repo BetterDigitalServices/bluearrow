@@ -268,7 +268,7 @@ h1 {
 }
 
 .manifesto {
-  
+
   #manifesto-title {
     font-size: 3em;
     margin-bottom: 1em;
@@ -288,11 +288,11 @@ h1 {
 
   ul {
     padding: 0;
-    
+
     li {
 	  list-style: none;
 	  margin-bottom: 1em;
-      
+
       h2 {
 	    font-family: Campton;
         font-weight: normal;
@@ -310,7 +310,7 @@ h1 {
           transition: 0.8s ease-in-out;
         }
       }
-      
+
       div {
 	    display: none;
 	    margin-left: 2em;
@@ -318,4 +318,28 @@ h1 {
     }
   }
 
+}
+
+h1.entry-title {
+    font-size: 50px;
+    line-height: 1.1em;
+
+    @media (max-width: 991px) {
+        font-size: 38px;
+        letter-spacing: 4px;
+    }
+
+    @media (max-width: 732px) {
+        font-size: 20px;
+    }
+}
+
+h2.entry-title {
+    a {
+        text-decoration: none;
+    }
+}
+
+.post header {
+    line-height: 1em;
 }

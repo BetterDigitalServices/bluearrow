@@ -18,8 +18,9 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right mainnav ">
-          <li><a href="/"><img alt="Frontpage" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">Frontpage</a></li>
+          <li><a href="/"><img alt="Frontpage" src="wp-content/themes/bluearrow/dist/images/ba-logo.svg">Frontpage</a></li>
           <li><a href="/categories/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
+          <li><a href="/category/news"><img alt="News" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">News</a></li>
           <li><a href="/manifesto/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Manifesto</a></li>
           <!--
           <li class="dropdown">

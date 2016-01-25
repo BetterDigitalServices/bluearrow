@@ -89,7 +89,7 @@ function display_sidebar() {
     is_page_template('template-category.php')
   ]);
 
-  return apply_filters('sage/display_sidebar', $display);
+  return apply_filters('sage/display_sidebar', false);
 }
 
 /**
