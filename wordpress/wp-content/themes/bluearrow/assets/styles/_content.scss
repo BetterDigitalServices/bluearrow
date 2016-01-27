@@ -181,6 +181,11 @@ h1 {
     letter-spacing: 1px;
     font-size: 16px;
   }
+
+  a {
+    text-decoration: none;
+  }
+  
   img {
     @include box-shadow(0 8px 25px $shadow);
   }
