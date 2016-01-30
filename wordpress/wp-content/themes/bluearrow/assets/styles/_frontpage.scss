@@ -13,7 +13,11 @@
     }
 
     .mainheader {
-        margin-bottom: 50px;
+        margin-bottom: 30px;
+
+        @media (max-width: $screen-md-min) {
+            padding-left: 15px;
+        }
     }
 
     .col-icon {
