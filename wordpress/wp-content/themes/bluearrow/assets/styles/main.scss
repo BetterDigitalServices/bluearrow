@@ -25,9 +25,12 @@
 @import "frontpage.scss";
 @import "page-category.scss";
 
+$color-background: #d3ecdf;
+$color-text: #203B6A;
+
 body {
-  background: #d3ecdf;
-  color: #203B6A;
+  background: $color-background;
+  color: $color-text;
 }
 
 #wpadminbar {

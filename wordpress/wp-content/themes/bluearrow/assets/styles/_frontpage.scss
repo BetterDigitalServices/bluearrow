@@ -29,4 +29,17 @@
             text-align: center;
         }
     }
+
+    .twitterstream {
+        margin-top: 40px;
+        max-width: 100%;
+
+        iframe {
+            max-height: 400px;
+        }
+
+        @media (max-width: 600px) {
+            display: none;
+        }
+    }
 }
