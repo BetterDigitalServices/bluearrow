@@ -157,4 +157,18 @@
             letter-spacing: 5px;
         }
     }
+
+    @media (max-width: 992px) {
+        .rotate {
+            text-align: left;
+            position: relative;
+            display: block;
+            transform: none;
+            width: auto;
+
+            h4 {
+                margin: 0;
+            }
+        }
+    }
 }
