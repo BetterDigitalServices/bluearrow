@@ -131,6 +131,28 @@
         }
     }
 
+    .toplinks {
+        &.row {
+            padding-bottom: 20px;
+        }
+
+    }
+
+    .categorylinks {
+        text-align: center;
+
+        a {
+            display: inline-block;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-family: Campton;
+            margin: 2px 5px;
+            letter-spacing: 0.05em;
+            font-weight: 300;
+            font-size: 13px;
+        }
+    }
+
     @media (max-width: 991px) {
         .col-bluearrow {
             display: none;
