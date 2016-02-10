@@ -1,0 +1,53 @@
+#page-gala {
+    > .row {
+        padding-bottom: 60px;
+    }
+
+    .col-bluearrow {
+        text-align: center;
+    }
+
+    h3 {
+        text-transform: uppercase;
+        margin: 0;
+        font-size: 18px;
+        color: #7c94a2;
+        font-weight: bold;
+    }
+
+    ul {
+        margin: 20px 0px;
+        list-style-type: none;
+        padding: 0;
+        li {
+            margin: 5px 0px;
+        }
+        li:before {
+            padding-right: .5em;
+            content: "→";
+        }
+    }
+
+    .venuemap {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .awardbutton {
+        display: block;
+        padding: 20px 40px;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-family: Campton !important;
+        font-size: 20px;
+        font-weight: 300;
+        margin: 10px;
+        display: inline-block;
+        width: auto;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
