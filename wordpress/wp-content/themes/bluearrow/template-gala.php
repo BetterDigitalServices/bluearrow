@@ -66,6 +66,7 @@
                     for public transportation at <a href="http://www.reittiopas.fi">Reittiopas</a> or a taxi.
                     If you are coming with a car, the closest parking hall is
                     at <a href="https://www.q-park.fi/fi/pysakointi-q-parkissa/pysakointilaitokset/kaupunki/parkingid/1273">Q-park Kasarmitori</a>.
+                </p>
             </div>
         </div>
 
