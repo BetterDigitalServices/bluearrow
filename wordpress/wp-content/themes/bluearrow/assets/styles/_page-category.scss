@@ -104,7 +104,7 @@
         margin: 1em 0;
     }
 
-    .awardbutton {
+    .awardbutton, .wpcf7-submit {
         display: block;
         padding: 20px 40px;
         text-align: center;
@@ -120,6 +120,26 @@
         &:hover {
             text-decoration: underline;
         }
+    }
+
+    label {
+        font-family: CamptonLight;
+        margin: 0;
+        font-size: 14px;
+        line-height: 24px;
+        text-transform: none;
+        color: #7c94a2;
+    }
+
+    input {
+        border: 0;
+        padding: 5px;
+    }
+
+    .wpcf7-mail-sent-ok {
+        border: 0;
+        background-color: #fff;
+        box-shadow: 0 10px 15px rgba(32,59,106,.2);
     }
 
     .row {
