@@ -36,7 +36,7 @@
     </div>
 -->
     <div class="row row-centered">
-      <div class="col-sm-1 col-centered">
+      <div class="col-md-1 col-centered">
         <a href="http://codento.fi/">
           <img class="img-responsive organiser" alt="Codento" src="wp-content/themes/bluearrow/dist/images/codento.svg">
         </a>
