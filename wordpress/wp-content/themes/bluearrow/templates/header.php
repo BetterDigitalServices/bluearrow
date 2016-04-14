@@ -22,6 +22,7 @@
           <li><a href="/categories/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a></li>
           <li><a href="/category/news"><img alt="News" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">News</a></li>
           <li><a href="/manifesto/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Manifesto</a></li>
+          <li><a href="/gala/"><img alt="Gala" src="wp-content/themes/bluearrow/dist/images/gala.svg">Gala</a></li>
           <!--
           <li class="dropdown">
               <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/categories.svg">Categories</a>
@@ -35,7 +36,7 @@
           <li><a href="#jury"><img alt="Jury" src="wp-content/themes/bluearrow/dist/images/jury.svg">Jury</a></li>
           <li><a href="#contact"><img alt="contact" src="wp-content/themes/bluearrow/dist/images/contact.svg">Contact</a></li>
             -->
-          <li class="bluenav"><a href="#" aria-hidden="false">The award gala<br>26.5.2016</a></li>
+          <li class="bluenav"><a href="/gala/" aria-hidden="false">The award gala<br>26.5.2016</a></li>
         </ul>
       </div>
 
