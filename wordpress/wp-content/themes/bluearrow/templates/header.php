@@ -23,7 +23,7 @@
           <li><a href="/category/news"><img alt="News" src="wp-content/themes/bluearrow/dist/images/beawesome.svg">News</a></li>
           <li><a href="/manifesto/"><img alt="Categories" src="wp-content/themes/bluearrow/dist/images/whoarewe.svg">Manifesto</a></li>
           <li><a href="/gala/"><img alt="Gala" src="wp-content/themes/bluearrow/dist/images/gala.svg">Gala</a></li>
-          <li><a href="/finalists/"><img alt="Finalists" src="wp-content/themes/bluearrow/dist/images/icon-finalists.svg">Finalists</a></li>
+          <li><a href="/winners/"><img alt="Winners" src="wp-content/themes/bluearrow/dist/images/icon-finalists.svg">Winners</a></li>
 
           <!--
           <li class="dropdown">
