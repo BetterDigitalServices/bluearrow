@@ -59,14 +59,6 @@ If you want to set up the system from scratch, follow these 15-minute instructio
 
 * Follow the [WP quick start instructions for App Engine](https://googlecloudplatform.github.io/appengine-php-wordpress-starter-project/)
 
-## Note on Let's Encrypt Certificates
-
-The certificates for this site have been generated using http://www.letsencrypt.org/, using the following instructions: [https://medium.com/@samthor/let-s-encrypt-with-app-engine-8047b0642895#.v3kidstc8](https://medium.com/@samthor/let-s-encrypt-with-app-engine-8047b0642895#.v3kidstc8)
-
-This means you need to renew your certificate every three months - don't forget to do that!
-
-In practice what you need to do is run letsencrypt cli every few months, follow the console instructions on what challenge key you'll upload into .well-known/acme-challenge, and re-deploy your website.
-
 ### Deployment using Docker
 
 Build theme assets using instructions in the previous section.
@@ -84,3 +76,36 @@ Start the docker-machine and create the image.
 	eval "$(docker-machine env default)"
 	docker build -t bdsfinland/bluearrow:latest .
 	docker push bdsfinland/bluearrow:latest
+
+## Storing Previous Years Versions of the Website
+
+The following will create a static copy of the website. Note that all the links are not necessarily beautiful.
+
+    > wget -N --recursive --page-requisites --html-extension https://www.bluearrowawards.com
+
+## Updating Letsencrypt Certificates
+
+The certificates for this site have been generated using http://www.letsencrypt.org/. This means you need to renew your certificate every three months - don't forget to do that!
+
+In practice what you need to do is run letsencrypt cli every few months, follow the console instructions on what challenge key you'll upload into .well-known/acme-challenge, and re-deploy your website. The following long instructions help you forward:
+
+1. Start `certbot` (the new letesencrypt client), choose  `www.bluearrowawards.com` for the domain.
+
+
+    > git clone git@github.com:certbot/certbot.git
+    > cd certbot
+    > sudo ./certbot-auto certonly --debug --manual
+
+2. Follow the certbot instructions, e.g. copy the certbot verification string into root-level `.well-known/acme-challenge` directory while the process is still running.
+
+
+    > echo jRWhFIQGLP0MNIBL_1HMBvQEziW5Ss5bqsP8rSFcn-c.LKsscNwqNHbCdkVCcX9XTg570zfIQu6CkPBPISFc3hI >.well-known/acme-challenge/jRWhFIQGLP0MNIBL_1HMBvQEziW5Ss5bqsP8rSFcn-c
+
+3. Update the new version into AppEngine - the easiest way is likely the AppEngine client (see above).
+
+4. Let certbot finish its job, then save & Store the generated certificates.
+
+5) Update the certbot created private key into RSA form:
+    > openssl rsa -in privkey.pem >privkey-rsa.pem
+
+6) Navigate to Google Cloud console (https://cloud.google.com/), bluearrowawards-1158 project, then `Dashboard->Resources->App Engine->Settings->SSL Certificates->Upload new certificate`. Choose the generated key (e.g. `fullchain.pem` and the RSA private key (e.g. `privkey-rsa.pem`). Finish the SSL certificate creation dialog.
