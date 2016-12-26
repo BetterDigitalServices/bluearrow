@@ -10,5 +10,6 @@ wordpress/wp-content/*
 !wordpress/wp-content/themes
 wordpress/wp-content/themes/*
 !wordpress/wp-content/themes/bluearrow/
+!wordpress/wp-content/themes/bluearrow-2017/
 !wordpress/wp-content/plugins
 wordpress/wp-content/themes/bluearrow/dist
