@@ -1,7 +1,13 @@
+// Custom variables
+
+$light-blue: #67B6CB;
+
+// Bootstrap overrides
+
 // Grid settings
-$enable-flex:           true;
-$main-sm-columns:       12;
-$sidebar-sm-columns:    4;
+$enable-flex: true;
+$main-sm-columns: 12;
+$sidebar-sm-columns: 4;
 
 // Colors
-$brand-primary:         #27ae60;
+$brand-primary: $light-blue;
