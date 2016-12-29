@@ -1,0 +1,39 @@
+// FIXME These font declarations will break on IE - font conversion
+// needed
+@font-face {
+  font-family: 'Campton';
+  src: url('../../assets/fonts/Rene_Bieder-Campton_Medium.otf') format('opentype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Campton';
+  src: url('../../assets/fonts/Rene_Bieder-Campton_Light.otf') format('opentype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Campton';
+  src: url('../../assets/fonts/Rene_Bieder-Campton_Bold.otf') format('opentype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url('../../assets/fonts/272514-baskerville-120-pro-regular/Baskerville120Pro.otf') format('opentype');
+  font-weight: 400;
+}
+
+body {
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+}
+
+h1 {
+  font-size: 87px;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 6px;
+}

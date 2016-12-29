@@ -1,6 +1,8 @@
 // Custom variables
 
 $light-blue: #67B6CB;
+$color-white: white;
+$font-family-default: Campton, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 // Bootstrap overrides
 
@@ -9,5 +11,24 @@ $enable-flex: true;
 $main-sm-columns: 12;
 $sidebar-sm-columns: 4;
 
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 768px,
+  xl: 768px
+);
+
 // Colors
 $brand-primary: $light-blue;
+
+$body-bg: $light-blue; // TODO: change to gradient soon
+$body-color: $color-white;
+
+$font-size-base: 1.375rem; // 22 px
+$font-family-base: $font-family-default;
+
+$link-color: $color-white;
+
+a {
+  font-weight: 600;
+}

@@ -1,0 +1,27 @@
+Storm Type Foundry
+
+END USER LICENSE AGREEMENT
+
+This is a contract between you and Storm Type Foundry (STF).
+
+1. The digital files downloaded to your computer contain font software that is the intellectual property of and is owned by STF. This non-exclusive license grants you certain rights to use the font software and is not an agreement for sale of the font software or any portion of it. Except for your right to use the font software granted by this license, all other rights, title of the font software, related trademarks and trade names are owned and retained by STF.
+
+2. You can install and use the font software on only a specified number of computers (stated in your Invoice) at one single location (Company Name). These computers can be connected to, and the font software used with, any number of output devices, such as a laser printer, ink jet printer, an imagesetter or a film recorder.
+
+3. You can use the fonts for display on an unlimited number of your web pages, but this EULA gives you the rights to use it on only a specified number of domains (stated in your Invoice). You can use third-party software to convert @font-face formats under the conditions given in section 5 of this EULA. You must assure, that the viewer will not be able to get the original fonts themselves, and that your pages will not permanently copy the original fonts into a connected computer.
+
+4. Embedding of font software. Embedding of font software into digital documents or web pages is permitted only in secured read-only mode. You must assure that it will be impossible to gain font software by any means or to copy it from these documents.
+
+5. You may convert and install the font software into another format for use in other environments, subject to the following conditions: A computer on which the converted font software is used or installed shall be considered as one of your permitted number of computers. Use of the font software you have converted shall be pursuant to all the terms and conditions of this Agreement. Such converted font software may be used for your own customary internal business or personal use exclusively and may not be distributed or transferred for any purpose. You may not modify or remove the name(s) of the font software, author's signature, copyright and trademark notices from the original files.
+
+6. You may take a copy of the font(s) you have used for a particular file to a commercial printer or other service bureau, only if the service bureau already has a valid license from STF to use that particular font software.
+
+7. You are not authorized to sublicense, sell, lend or lease the font software, but you may permanently transfer your rights under this Agreement to a third party; provided that (1) you transfer your copy of this Agreement, the font software, and all original documentation to the third party, (2) you destroy all of your copies of the font software, and (3) the receiving party accepts the terms and conditions of this Agreement.
+
+8. Lifetime Warranty. STF warrants that the font software will perform in accordance with the specifications published by STF. Your exclusive remedy and the sole liability of STF in connection with the font software is repair or replacement of its defective part. The warranty does not apply to any font software converted or modified by the user.
+
+9. Disclaimer of Warranties. EXCEPT FOR THE WARRANTY SET FORTH IN CLAUSE 8, STF MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED. THE WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE AND MERCHANTABILITY ARE SPECIFICALLY EXCLUDED. STF DOES NOT WARRANT THE PERFORMANCE AND RESULT YOU MAY OBTAIN BY USING THE FONT SOFTWARE AND ACCEPT NO LIABILITY THERETO.
+
+10. Limitation of Liability. IN NO EVENT WILL STF BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, PUNITIVE OR SPECIAL DAMAGES INCLUDING ANY LOST PROFITS, LOST DATA OR LOST SAVINGS.
+
+11. General. This Agreement will be governed by the laws of Czech Republic. YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.
