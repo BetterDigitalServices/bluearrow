@@ -8,6 +8,13 @@
     </div>
     <a class="list-article-read-more" href="<?php the_permalink(); ?>">▸ Read more</a>
   </article>
+
+  <div class="clearfix">
+    <div class="squiggle util-background-icon pull-xs-left list-article-spacer"></div>
+  </div>
+
 <?php endwhile; else : ?>
   <p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
 <?php endif; ?>
+
+<?php echo paginate_links(); ?>

@@ -1,7 +1,8 @@
 a.list-article-title {
   display: block;
   h2 {
-    font-weight: 600;
+    font-size: 32px;
+    letter-spacing: 3px;
   }
 }
 
@@ -12,4 +13,9 @@ a.list-article-title {
 .list-article-date {
   opacity: 0.75;
   margin-top: 1rem;
+}
+
+.squiggle.list-article-spacer {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }

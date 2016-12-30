@@ -37,3 +37,13 @@ function bluearrow_2017_excerpt_more( $more ) {
   return '...';
 }
 add_filter( 'excerpt_more', 'bluearrow_2017_excerpt_more' );
+
+// Fix pagination when using {category}/{slug} formatted permalinks
+function bluearrow_2017_init() {
+  global $wp_rewrite;
+  add_rewrite_rule("author/([^/]+)/page/?([0-9]{1,})/?$",'index.php?author_name=$matches[1]&paged=$matches[2]','top');
+  add_rewrite_rule("(.+?)/page/?([0-9]{1,})/?$",'index.php?category_name=$matches[1]&paged=$matches[2]','top');
+  $wp_rewrite->flush_rules(false);
+}
+
+add_action('init','bluearrow_2017_init');
