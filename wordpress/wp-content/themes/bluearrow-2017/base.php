@@ -20,6 +20,11 @@ use Roots\Sage\Wrapper;
     ?>
     <div class="wrap container" role="document">
       <div class="content row">
+        <div class="rotated">
+          <span class="rotated-bold">Awards ceremony</span><br>
+          April 2017<br>
+          <span class="rotated-bold">Helsinki/Finland</span>
+        </div>
         <main class="main">
           <?php include Wrapper\template_path(); ?>
         </main><!-- /.main -->
