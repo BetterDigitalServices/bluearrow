@@ -1,4 +1,8 @@
-<?php while (have_posts()) : the_post(); ?>
-  <?php get_template_part('templates/page', 'header'); ?>
-  <?php get_template_part('templates/content', 'page'); ?>
-<?php endwhile; ?>
+<div class="row">
+  <div class="col-lg-10 offset-lg-2">
+    <?php while (have_posts()) : the_post(); ?>
+      <?php get_template_part('templates/page', 'header'); ?>
+      <?php get_template_part('templates/content', 'page'); ?>
+    <?php endwhile; ?>
+  </div>
+</div>
