@@ -26,3 +26,14 @@ foreach ($sage_includes as $file) {
   require_once $filepath;
 }
 unset($file, $filepath);
+
+/**
+ * Filter the excerpt "read more" string.
+ *
+ * @param string $more "Read more" excerpt string.
+ * @return string (Maybe) modified "read more" excerpt string.
+ */
+function bluearrow_2017_excerpt_more( $more ) {
+  return '...';
+}
+add_filter( 'excerpt_more', 'bluearrow_2017_excerpt_more' );

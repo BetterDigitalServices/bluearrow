@@ -1,4 +1,4 @@
-<h1>Blue Arrow. An award for impact.</h1>
+<h1 class="front-page-title">Blue Arrow. An award for impact.</h1>
 <div class="clearfix">
   <div class="squiggle util-background-image"></div>
 </div>

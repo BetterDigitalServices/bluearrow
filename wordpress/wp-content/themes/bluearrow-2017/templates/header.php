@@ -7,9 +7,9 @@ $menuItems = [
     'icon' => 'header-icon-news.svg'
   ],
   [
-    'title' => 'Categories',
-    'url' => 'categories',
-    'icon' => 'header-icon-categories.svg'
+    'title' => 'Blog',
+    'url' => 'blog',
+    'icon' => 'header-icon-blog.svg'
   ]
 ]
 
