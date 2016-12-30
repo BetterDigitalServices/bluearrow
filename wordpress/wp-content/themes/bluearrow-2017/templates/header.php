@@ -15,9 +15,9 @@ if (isset($menu_locations['primary_navigation'])) {
           <a class="main-nav-links-item-link" href="<?php echo esc_url($item->url); ?>">
             <?php $icon = get_post_meta( $item->ID, 'menu-item-icon', true ); ?>
             <?php if($icon): ?>
-              <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/' . $icon?>')"></div>
+              <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/' . $icon ?>')"></div>
             <?php else: ?>
-              <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/header-icon-news.svg'?>')"></div>
+              <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/header-icon-news.svg' ?>')"></div>
             <?php endif; ?>
             <div class="main-nav-links-item-title"><?php echo $item->title ?></div>
           </a>
