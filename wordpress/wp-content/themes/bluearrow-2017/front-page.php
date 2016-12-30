@@ -20,7 +20,7 @@
     </div>
     <div class="col-md-9">
       <h2>Schedule</h2>
-      <p>The competition is open for entries from 25.1.2017 to 29.2.2017. Enter your product, service or campaign if you feel it has made real impact.</p>
+      <p>The competition is open for entries from <span class="text-highlight">25.1.2017</span> to <span class="text-highlight">29.2.2017.</span> Enter your product, service or campaign if you feel it has made real impact.</p>
     </div>
   </div>
 </div>
@@ -31,7 +31,7 @@
     </div>
     <div class="col-md-9">
       <h2>Gala</h2>
-      <p>The award gala will take place in April 2017</p>
+      <p>The award gala will take place in <span class="text-highlight">April 2017</span></p>
     </div>
   </div>
 </div>

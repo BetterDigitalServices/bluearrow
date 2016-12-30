@@ -20,8 +20,19 @@
 
 @font-face {
   font-family: 'Baskerville';
-  src: url('../../assets/fonts/272514-baskerville-120-pro-regular/Baskerville120Pro.otf') format('opentype');
+  src: url('../../assets/fonts/324416-baskerville-120-pro-regular-web/Baskerville120ProWeb.woff') format('woff'),
+       url('../../assets/fonts/272514-baskerville-120-pro-regular/Baskerville120Pro.otf') format('opentype'),
+       url('../../assets/fonts/324416-baskerville-120-pro-regular-web/Baskerville120ProWeb.eot') format('eot');
   font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url('../../assets/fonts/324411-baskerville-10-pro-bold-web/Baskerville10Pro-BoldWeb.eot') format('eot'),
+       url('../../assets/fonts/272507-baskerville-10-pro-bold/Baskerville10Pro-Bold.otf') format('opentype'),
+       url('../../assets/fonts/324411-baskerville-10-pro-bold-web/Baskerville10Pro-BoldWeb.woff') format('woff');
+
+  font-weight: 600;
 }
 
 body {
@@ -36,4 +47,9 @@ h1 {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 6px;
+}
+
+.text-highlight {
+  font-family: Baskerville, sans-serif;
+  font-weight: 600;
 }
