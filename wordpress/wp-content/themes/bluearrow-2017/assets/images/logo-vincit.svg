@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="106px" height="26px" viewBox="0 0 106 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>logo-vincit</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="logo-vincit" fill="#FFFFFF">
-            <rect id="Rectangle-path" x="30" y="2.14" width="4.91" height="19.48"></rect>
-            <polygon id="Shape" points="97.74 2 83 2 83 5.6 83 6.91 87.91 6.91 87.91 21.49 92.83 21.49 92.83 6.91 97.74 6.91"></polygon>
-            <polygon id="Shape" points="17.92 11.88 13.14 2.14 7.62 2.14 17.91 21.64 28.49 2.14 22.97 2.14"></polygon>
-            <polygon id="Shape" points="48.14 11.89 37.09 2.14 37.09 21.63 42 21.63 42 12.97 53.05 22.68 53.05 2.14 48.14 2.14"></polygon>
-            <path d="M68.79,14.36 C67.7257339,16.1615256 65.6243037,17.0751676 63.5809545,16.6247447 C61.5376053,16.1743218 60.0150624,14.4618343 59.8068604,12.379814 C59.5986583,10.2977936 60.7519454,8.31772311 62.6656396,7.47159589 C64.5793338,6.62546868 66.8200707,7.10489398 68.22,8.66 L71.83,5.35 C69.0053241,2.24241267 64.5068948,1.29518446 60.6689145,2.99982522 C56.8309342,4.70446598 54.5176692,8.67711142 54.9294558,12.8563846 C55.3412425,17.0356579 58.3853515,20.4804376 62.4822168,21.4032526 C66.5790821,22.3260676 70.8061397,20.5191112 72.97,16.92 L68.79,14.36 Z" id="Shape"></path>
-            <rect id="Rectangle-path" x="75" y="2" width="4.91" height="19.48"></rect>
-        </g>
-    </g>
-</svg>
+<svg width="106" height="26" viewBox="0 0 106 26" xmlns="http://www.w3.org/2000/svg"><title>logo-vincit</title><g fill="#FFF" fill-rule="evenodd"><path d="M30 2.14h4.91v19.48H30zM97.74 2H83v4.91h4.91v14.58h4.92V6.91h4.91zM17.92 11.88l-4.78-9.74H7.62l10.29 19.5 10.58-19.5h-5.52zM48.14 11.89L37.09 2.14v19.49H42v-8.66l11.05 9.71V2.14h-4.91zM68.79 14.36a4.84 4.84 0 1 1-.57-5.7l3.61-3.31a9.74 9.74 0 1 0 1.14 11.57l-4.18-2.56zM75 2h4.91v19.48H75z"/></g></svg>

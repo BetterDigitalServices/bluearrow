@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="62px" height="165px" viewBox="0 0 62 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>arrow</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow" fill="#FFFFFF">
-            <polygon id="Rectangle-path" points="27 152 27 1 35 1 35 152"></polygon>
-            <polygon id="Shape" points="1 115.669023 7.79 111.439023 30.99 148.629023 54.07 111.309023 60.88 115.509023 31.03 163.789023"></polygon>
-        </g>
-    </g>
-</svg>
+<svg width="62" height="165" viewBox="0 0 62 165" xmlns="http://www.w3.org/2000/svg"><title>arrow</title><g fill="#FFF" fill-rule="evenodd"><path d="M27 152V1h8v151z"/><path d="M1 115.669l6.79-4.23 23.2 37.19 23.08-37.32 6.81 4.2-29.85 48.28z"/></g></svg>
