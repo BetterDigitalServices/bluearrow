@@ -67,6 +67,12 @@ var enabled = {
 // Path to the compiled assets manifest in the dist directory
 var revManifest = path.dist + 'assets.json';
 
+// Error checking; produce an error rather than crashing.
+var onError = function (err) {
+  console.log(err.toString());
+  this.emit('end');
+};
+
 // ## Reusable Pipelines
 // See https://github.com/OverZealous/lazypipe
 
@@ -166,17 +172,18 @@ var writeToManifest = function(directory) {
 // `gulp styles` - Compiles, combines, and optimizes Bower CSS and project CSS.
 // By default this task will only log a warning if a precompiler error is
 // raised. If the `--production` flag is set: this task will fail outright.
-gulp.task('styles', ['wiredep'], function() {
+gulp.task('styles', ['wiredep'], function () {
   var merged = merge();
-  manifest.forEachDependency('css', function(dep) {
+  manifest.forEachDependency('css', function (dep) {
     var cssTasksInstance = cssTasks(dep.name);
     if (!enabled.failStyleTask) {
-      cssTasksInstance.on('error', function(err) {
+      cssTasksInstance.on('error', function (err) {
         console.error(err.message);
         this.emit('end');
       });
     }
     merged.add(gulp.src(dep.globs, {base: 'styles'})
+      .pipe(plumber({errorHandler: onError}))
       .pipe(cssTasksInstance));
   });
   return merged
@@ -191,6 +198,7 @@ gulp.task('scripts', ['jshint'], function() {
   manifest.forEachDependency('js', function(dep) {
     merged.add(
       gulp.src(dep.globs, {base: 'scripts'})
+        .pipe(plumber({ errorHandler: onError }))
         .pipe(jsTasks(dep.name))
     );
   });
@@ -263,9 +271,9 @@ gulp.task('watch', function() {
 // Generally you should be running `gulp` instead of `gulp build`.
 gulp.task('build', function(callback) {
   runSequence('styles',
-              'scripts',
-              ['fonts', 'images'],
-              callback);
+    'scripts',
+    ['fonts', 'images'],
+    callback);
 });
 
 // ### Wiredep
