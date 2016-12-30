@@ -46,4 +46,8 @@ function bluearrow_2017_init() {
   $wp_rewrite->flush_rules(false);
 }
 
+include 'class-blue-arrow-2017-menu-item-custom-fields.php';
+Blue_Arrow_2017_Menu_Item_Custom_Fields::init();
+
+
 add_action('init','bluearrow_2017_init');
