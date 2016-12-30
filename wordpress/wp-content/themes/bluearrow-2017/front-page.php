@@ -5,6 +5,7 @@
 <div class="front-page-top-section">
   <div class="row">
     <div class="col-md-3">
+      <div class="arrow util-background-icon"></div>
     </div>
     <div class="col-md-9"
       <p>Blue Arrow awards selects the best services, teams, people and code in digital industry in 8 categories.</p>

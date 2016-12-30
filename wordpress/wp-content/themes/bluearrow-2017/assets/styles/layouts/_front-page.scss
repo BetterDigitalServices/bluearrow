@@ -31,3 +31,17 @@
   float: right;
   margin-right: 55px;
 }
+
+.arrow {
+  width: 62px;
+  height: 165px;
+  background-image: url("../../assets/images/arrow.svg");
+  float: right;
+  margin-right: 10px;
+}
+
+@include media-breakpoint-down(sm) {
+  .arrow {
+    display: none;
+  }
+}
