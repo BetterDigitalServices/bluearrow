@@ -4,6 +4,7 @@
   background-color: $brand-primary;
   position: relative;
   box-shadow: rgba(0,0,0,0.1) 0 10px 20px 10px;
+  z-index: 2;
 }
 
 .header-logo {
@@ -50,7 +51,6 @@ a.main-nav-links-item-link {
   text-transform: uppercase;
   vertical-align: middle;
   font-size: 16px;
-  font-family: Campton, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 
@@ -64,3 +64,90 @@ a.main-nav-links-item-link {
   background-size: 100%;
   background-repeat: no-repeat;
 }
+
+.header-mobile-nav-button {
+  height: 90px;
+  width: 30px;
+  margin-right: 30px;
+  background-image: url('../../assets/images/hamburger-menu.svg');
+  float: right;
+  display: none;
+}
+
+.mobile-nav-menu {
+  position: fixed;
+  top: 90px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: $brand-primary;
+  z-index: 1;
+  overflow-y: scroll;
+  display: none;
+}
+
+.mobile-nav-menu--active {
+  display: block;
+}
+
+.body-disable-scroll {
+  overflow: hidden;
+}
+
+.mobile-nav-menu {
+  margin-top: 30px;
+}
+
+.mobile-nav-menu-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mobile-nav-menu-item {
+  font-size: 0;
+}
+
+.mobile-nav-menu-item-link {
+  display: block;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+
+.mobile-nav-menu-item-icon {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+
+.mobile-nav-menu-item-title {
+  display: inline-block;
+  text-transform: uppercase;
+  vertical-align: middle;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+@media (max-width: 1000px) {
+  .header {
+    height: 90px;
+  }
+  .main-nav-links {
+    display: none;
+  }
+  .header-logo{
+    height: 90px;
+  }
+  .header-mobile-nav-button {
+    display: block;
+  }
+}
+
+@media (min-width: 1001px) {
+  .mobile-nav-menu {
+    display: none;
+  }
+}
+
