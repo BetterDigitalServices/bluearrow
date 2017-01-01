@@ -1,0 +1,12 @@
+{
+  "config": {
+    "vendor-dir": "vendor",
+    "preferred-install": "dist"
+  },
+  "name": "var-dumper-wordpress",
+  "description": "var-dump package included for WordPress",
+  "type": "project",
+  "require": {
+    "symfony/var-dumper": "3.0.0"
+  }
+}
