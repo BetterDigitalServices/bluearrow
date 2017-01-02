@@ -55,4 +55,4 @@ add_action('init','bluearrow_2017_init');
 function bluearrow_2017_init_media() {
   wp_enqueue_media();
 }
-add_action( 'admin_init', 'bluearrow_2017_init_media' );
+add_action('admin_init', 'bluearrow_2017_init_media');
