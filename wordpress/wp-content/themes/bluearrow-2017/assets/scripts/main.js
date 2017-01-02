@@ -21,6 +21,7 @@
         // JavaScript to be fired on all pages
         jQuery('.header-mobile-nav-button').click(function () {
           jQuery('.mobile-nav-menu').toggleClass('mobile-nav-menu--active');
+          jQuery('html').toggleClass('body-disable-scroll');
           jQuery('body').toggleClass('body-disable-scroll');
         });
       },

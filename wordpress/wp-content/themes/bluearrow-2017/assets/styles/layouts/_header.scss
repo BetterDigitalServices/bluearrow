@@ -83,7 +83,9 @@ a.main-nav-links-item-link {
   background-color: $brand-primary;
   z-index: 1;
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   display: none;
+  padding-top: 30px;
 }
 
 .mobile-nav-menu--active {
@@ -92,10 +94,11 @@ a.main-nav-links-item-link {
 
 .body-disable-scroll {
   overflow: hidden;
-}
-
-.mobile-nav-menu {
-  margin-top: 30px;
+  max-height: 100%;
+  height: 100%;
+  .header {
+    position: fixed;
+  }
 }
 
 .mobile-nav-menu-list {
