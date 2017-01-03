@@ -5,7 +5,6 @@
 
 .front-page-section {
   text-align: center;
-  margin-top: 100px;
   h2 {
     text-transform: uppercase;
     font-size: 28px;
@@ -22,7 +21,11 @@
 
 .front-page-top-section {
   font-family: Baskerville, serif;
-  font-size: 24px;
+  font-size: 22px;
+  margin-top: 100px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .squiggle {
@@ -47,4 +50,40 @@
   .arrow {
     display: none;
   }
+}
+
+.categories-container {
+  text-align: center;
+  font-size: 0; // Inline block extra margin workaround
+  max-width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.category-box {
+  display: inline-block;
+  height: 128px;
+  width: 128px;
+  border: 6px solid $color-white;
+  position: relative;
+  overflow: hidden;
+  padding: 10px;
+  margin: 8px;
+}
+
+.category-box-corner {
+  height: 48px;
+  width: 48px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("../../assets/images/category-box-corner.svg");
+}
+
+.category-box-title {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 15px;
+  font-weight: 600;
 }
