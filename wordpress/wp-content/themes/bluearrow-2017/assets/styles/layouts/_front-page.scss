@@ -4,8 +4,10 @@
 }
 
 .front-page-section {
+  text-align: center;
   margin-top: 100px;
   h2 {
+    text-transform: uppercase;
     font-size: 28px;
     letter-spacing: 5px;
     margin-bottom: 40px;
@@ -13,6 +15,7 @@
 }
 
 .front-page-section-icon {
+  margin: 0 auto;
   height: 160px;
   width: 160px;
 }
