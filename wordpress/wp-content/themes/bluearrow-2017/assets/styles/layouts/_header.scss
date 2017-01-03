@@ -1,7 +1,7 @@
 .header {
   height: 136px;
   width: 100%;
-  background-color: $brand-primary;
+  background-color: $color-white;
   position: relative;
   box-shadow: rgba(0,0,0,0.1) 0 10px 20px 10px;
   z-index: 2;
@@ -38,10 +38,10 @@
 a.main-nav-links-item-link {
   font-size: 0; // Inline block workaround
   display: block;
-  color: white;
+  color: $color-gray;
   padding: 10px;
   &:hover, &:focus, &:active {
-    color: white;
+    color: $color-gray;
     text-decoration: none;
   }
 }
@@ -80,12 +80,12 @@ a.main-nav-links-item-link {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: $brand-primary;
+  background-color: $color-white;
   z-index: 1;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
   display: none;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .mobile-nav-menu--active {
@@ -114,7 +114,14 @@ a.main-nav-links-item-link {
 .mobile-nav-menu-item-link {
   display: block;
   padding-left: 40px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: $color-gray;
+  &:hover,
+  &:active,
+  &:focus {
+    color: $color-gray;
+  }
 }
 
 .mobile-nav-menu-item-icon {
