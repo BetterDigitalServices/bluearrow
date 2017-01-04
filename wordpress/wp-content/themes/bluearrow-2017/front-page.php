@@ -1,4 +1,10 @@
-<h1 class="front-page-title">Blue Arrow. An award for impact.</h1>
+<div class="rotated">
+  <span class="rotated-bold">Awards ceremony</span><br>
+  April 2017<br>
+  <span class="rotated-bold">Helsinki/Finland</span>
+</div>
+
+<h1 class="front-page-title">Blue Arrow. An award for <span class="front-page-title-underline">impact</span>.</h1>
 <div class="front-page-top-section">
   <div class="row">
     <div class="col-xs-12"

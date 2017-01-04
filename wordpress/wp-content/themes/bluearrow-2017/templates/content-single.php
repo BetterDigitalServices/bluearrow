@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="col-lg-10 offset-lg-2">
+  <div class="col-xs-12">
     <?php while (have_posts()) : the_post(); ?>
       <article <?php post_class(); ?>>
         <header>

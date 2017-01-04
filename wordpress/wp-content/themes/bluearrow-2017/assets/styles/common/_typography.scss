@@ -50,10 +50,13 @@ h1 {
 }
 
 .text-highlight {
-  font-family: Baskerville, sans-serif;
+  font-family: $font-family-fancy;
   font-weight: 600;
 }
 
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h6 {
+  text-transform: uppercase;
+}
 
 a {
   font-weight: 600;
