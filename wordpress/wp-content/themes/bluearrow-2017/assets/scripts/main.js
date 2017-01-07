@@ -24,6 +24,30 @@
           jQuery('html').toggleClass('body-disable-scroll');
           jQuery('body').toggleClass('body-disable-scroll');
         });
+
+        /* Hide navigation items when they overflow the navigation bar.
+         * This way we don't need to hard code a certain px value and the
+         * mobile menu shows up when it's needed regardless of the number
+         * of the navigation items
+         */
+
+        function mobileMenuCheck() {
+          var logoWidth = 136;
+          if (jQuery('.header-right').position().left < logoWidth) {
+            jQuery('.header').addClass('header--is-mobile');
+            jQuery('.header-right').css('visibility', 'hidden');
+          } else {
+            jQuery('.header').removeClass('header--is-mobile');
+            jQuery('.header-right').css('visibility', 'visible');
+          }
+        }
+
+        jQuery( window ).resize(function() {
+          mobileMenuCheck();
+        });
+
+        mobileMenuCheck();
+
       },
       finalize: function() {
         // JavaScript to be fired on all pages, after page specific JS is fired

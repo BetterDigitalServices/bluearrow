@@ -71,7 +71,7 @@ a.main-nav-links-item-link {
   margin-right: 30px;
   background-image: url('../../assets/images/hamburger-menu.svg');
   float: right;
-  display: none;
+  visibility: hidden;
 }
 
 .mobile-nav-menu {
@@ -166,28 +166,34 @@ a.main-nav-links-item-link {
 .header-right {
   color: $color-white;
   float: right;
+  right: 0;
+  position: absolute;
 }
 
-@media (max-width: 1000px) {
-  .header {
+.header {
+  .mobile-nav-menu {
+    visibility: hidden;
+  }
+  .header-right {
+    visibility: hidden;
+  }
+}
+
+.header--is-mobile {
+  &.header {
     height: 90px;
   }
-  .main-nav-links {
-    display: none;
+  .header-right {
+    visibility: hidden;
   }
   .header-logo{
     height: 90px;
   }
   .header-mobile-nav-button {
-    display: block;
+    visibility: visible;
   }
   .header-button {
-    display: none;
+    visibility: hidden;
   }
 }
 
-@media (min-width: 1001px) {
-  .mobile-nav-menu {
-    display: none;
-  }
-}
