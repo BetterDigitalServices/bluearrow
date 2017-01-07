@@ -3,6 +3,12 @@
   margin-left: 60px;
 }
 
+@include media-breakpoint-down(sm) {
+  .content.row .front-page-title {
+    margin-left: 0;
+  }
+}
+
 .front-page-title-underline {
   border-bottom: 6px solid $color-white;
 }
@@ -30,6 +36,12 @@
   font-weight: 600;
   text-align: center;
   margin-bottom: 20px;
+}
+
+@include media-breakpoint-down(sm) {
+  .front-page-top-section {
+    margin-top: 50px;
+  }
 }
 
 .squiggle {

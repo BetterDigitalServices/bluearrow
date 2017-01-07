@@ -25,6 +25,12 @@
   margin-bottom: 60px;
 }
 
+@include media-breakpoint-down(sm) {
+  .category-spacer {
+    width: 100%;
+  }
+}
+
 .category-main-judge {
   text-align: center;
 }
@@ -82,6 +88,12 @@
 
 .category-assisting-judge {
   margin-bottom: 70px;
+}
+
+@include media-breakpoint-down(sm) {
+  .category-assisting-judge {
+    margin-bottom: 10px;
+  }
 }
 
 .category-links {

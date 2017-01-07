@@ -49,6 +49,18 @@ h1 {
   letter-spacing: 6px;
 }
 
+@include media-breakpoint-down(md) {
+  h1 {
+    font-size: (87px * 0.75);
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  h1 {
+    font-size: (87px * 0.5);
+  }
+}
+
 .text-highlight {
   font-family: $font-family-fancy;
   font-weight: 600;
