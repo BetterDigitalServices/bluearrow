@@ -19,3 +19,16 @@ a.list-article-title {
   margin-top: 100px;
   margin-bottom: 100px;
 }
+
+@include media-breakpoint-down(md) {
+  .squiggle.list-article-spacer {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 420px) {
+  .squiggle.list-article-spacer {
+    width: 100%;
+  }
+}
