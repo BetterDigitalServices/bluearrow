@@ -30,11 +30,12 @@
     <div class="front-page-section-icon util-background-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/icon-large-categories.svg' ?>')"></div>
     <h2>Categories</h2>
     <div class="categories-container clearfix">
-      <?php foreach(range(1,8) as $item): ?>
-        <div class="category-box">
+      <?php $categories = get_field('front_page_categories', $post->ID); ?> ?>
+      <?php foreach ($categories as $category): ?>
+        <a class="category-box" href="/categories/#<?php echo $category->post_name ?>">
           <div class="category-box-corner"></div>
-          <div class="category-box-title">Societal Influence</div>
-        </div>
+          <div class="category-box-title"><?php echo $category->post_title ?></div>
+        </a>
       <?php endforeach; ?>
     </div>
   </div>
@@ -77,3 +78,5 @@
     </div>
   </div>
 </div>
+
+
