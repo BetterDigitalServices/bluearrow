@@ -50,3 +50,16 @@ add_action('init','bluearrow_2017_init');
 
 include 'class-blue-arrow-2017-menu-item-custom-fields.php';
 Blue_Arrow_2017_Menu_Item_Custom_Fields::init();
+
+function bluearrow_2017_scripts()
+{
+  wp_enqueue_script( 'headroom', get_template_directory_uri() . '/node_modules/headroom.js/dist/headroom.js' );
+}
+add_action( 'wp_enqueue_scripts', 'bluearrow_2017_scripts' );
+
+function bluearrow_2017_reset_admin_bar_margin()
+{
+  echo "<style>html { margin-top: 0 !important; }</style>";
+}
+
+add_action('wp_head', 'bluearrow_2017_reset_admin_bar_margin', 100);

@@ -2,8 +2,9 @@
   height: 136px;
   width: 100%;
   background-color: $color-white;
-  position: relative;
-  box-shadow: rgba(0,0,0,0.1) 0 10px 20px 10px;
+  position: fixed;
+  top: 0;
+  box-shadow: 0 10px 20px 10px rgba(0,0,0,0.1);
   z-index: 2;
 }
 
@@ -186,7 +187,7 @@ a.main-nav-links-item-link {
   .header-right {
     visibility: hidden;
   }
-  .header-logo{
+  .header-logo {
     height: 90px;
   }
   .header-mobile-nav-button {
@@ -197,3 +198,14 @@ a.main-nav-links-item-link {
   }
 }
 
+.headroom {
+  will-change: transform;
+  transition: transform 200ms linear;
+}
+.headroom--pinned {
+  transform: translateY(0%);
+}
+.headroom--unpinned {
+  transform: translateY(-100%);
+  box-shadow: none;
+}
