@@ -142,13 +142,28 @@ a.main-nav-links-item-link {
   font-weight: 500;
 }
 
-.header-button {
+.header-button-container {
   float: left;
+  margin: 26px;
+  position: relative;
+}
+
+.header-button {
   height: 82px;
   width: 190px;
   background-color: $brand-primary;
   border: 2px solid $color-white;
-  margin: 26px;
+  display: block;
+}
+
+.header-button-shadow {
+  background-image: url("../../assets/images/header-button-shadow.svg");
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 217px;
+  height: 110px;
+  z-index: -10;
 }
 
 .header-button-text {
