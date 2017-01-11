@@ -12,6 +12,7 @@
           |
         <?php endif; ?>
       <?php endforeach; ?>
+      <div class="category-spacer category-links-spacer"></div>
     </div>
     <?php echo wpautop(get_post_field('post_content', $post->ID)); ?>
     <?php foreach ($categories as $category): ?>
