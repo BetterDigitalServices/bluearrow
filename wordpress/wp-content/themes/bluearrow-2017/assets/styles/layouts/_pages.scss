@@ -3,6 +3,10 @@ body {
   background: linear-gradient(#66b7cc, #4a9baf);
 }
 
+.mce-content-body {
+  background: $brand-primary;
+}
+
 .wrap.container {
   margin-top: 136px;
   padding-top: 55px;
