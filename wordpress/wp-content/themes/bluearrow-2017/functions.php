@@ -63,3 +63,28 @@ function bluearrow_2017_reset_admin_bar_margin()
 }
 
 add_action('wp_head', 'bluearrow_2017_reset_admin_bar_margin', 100);
+
+function bluearrow_2017_add_svg_support_to_uploader($mimes) {
+  $mimes['svg'] = 'image/svg+xml';
+  return $mimes;
+}
+add_filter('upload_mimes', 'bluearrow_2017_add_svg_support_to_uploader');
+
+function bluearrow_2017_buttons_2( $buttons ) {
+  array_unshift( $buttons, 'styleselect' );
+  return $buttons;
+}
+add_filter( 'mce_buttons_2', 'bluearrow_2017_buttons_2' );
+
+function bluearrow_2017_before_init_insert_formats( $init_array ) {
+  $style_formats = [
+    [
+      'title' => 'Text hightlight',
+      'inline'   => 'span',
+      'classes' => 'text-highlight',
+    ],
+  ];
+  $init_array['style_formats'] = json_encode( $style_formats );
+  return $init_array;
+}
+add_filter( 'tiny_mce_before_init', 'bluearrow_2017_before_init_insert_formats' );
