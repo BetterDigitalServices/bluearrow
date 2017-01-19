@@ -88,3 +88,5 @@ function bluearrow_2017_before_init_insert_formats( $init_array ) {
   return $init_array;
 }
 add_filter( 'tiny_mce_before_init', 'bluearrow_2017_before_init_insert_formats' );
+
+add_image_size( 'post-feature-image', 1440, 1440, true );

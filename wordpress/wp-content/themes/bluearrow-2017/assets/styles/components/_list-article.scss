@@ -15,6 +15,24 @@ a.list-article-title {
   margin-top: 1rem;
 }
 
+.list-article-date-with-author {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.list-article-feature-image {
+  width: 100%;
+  padding-bottom: (9/16) * 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.list-article-author-image {
+  width: 64px;
+  height: 64px;
+}
+
 .squiggle.list-article-spacer {
   margin-top: 100px;
   margin-bottom: 100px;

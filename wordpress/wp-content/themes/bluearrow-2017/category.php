@@ -3,8 +3,12 @@
     <h1><?php single_cat_title() ?></h1>
     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
       <article class="list-article">
+        <?php $post_image = get_the_post_thumbnail_url(get_post(), 'post-feature-image') ?>
+        <?php if ($post_image): ?>
+          <div class="list-article-feature-image m-b-2" style="background-image: url('<?php echo $post_image ?>')"></div>
+        <?php endif; ?>
         <a class="list-article-title" href="<?php the_permalink(); ?>"><h2><?php the_title() ?></h2></a>
-        <p class="list-article-date"><?php the_date() ?></p>
+        <?php get_template_part('templates/entry-meta'); ?>
         <div class="list-article-excerpt">
         <?php the_excerpt(); ?>
         </div>
