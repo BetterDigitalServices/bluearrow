@@ -4,6 +4,19 @@
   }
 }
 
+.category {
+  position: relative;
+}
+
+.category-anchor {
+  position: absolute;
+  top: 0;
+  height: 90px;
+  width: 100%;
+  transform: translateY(-100%);
+  pointer-events: none;
+}
+
 .category-title {
   font-size: 48px;
   letter-spacing: 5px;
