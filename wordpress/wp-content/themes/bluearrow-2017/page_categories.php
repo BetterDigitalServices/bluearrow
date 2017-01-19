@@ -5,7 +5,7 @@
     <?php $categories = get_field('categories', $post->ID); ?>
     <div class="category-links">
       <?php foreach ($categories as $index => $category): ?>
-        <a href="#<?php echo $category->post_name; ?>">
+        <a href="#<?php echo $category->post_name; ?>" class="category-anchor-link">
           <?php echo $category->post_title; ?>
         </a>
         <?php if (($index + 1) < count($categories)): ?>

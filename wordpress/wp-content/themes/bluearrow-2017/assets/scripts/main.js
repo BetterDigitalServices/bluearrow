@@ -58,22 +58,21 @@
 
       },
       finalize: function() {
-        // JavaScript to be fired on all pages, after page specific JS is fired
+
       }
     },
-    // Home page
-    'home': {
+
+    'categories': {
       init: function() {
-        // JavaScript to be fired on the home page
+        jQuery('.category-anchor-link').click(function (event) {
+          var id = $(event.target).attr('href');
+          jQuery('html, body').animate({
+            scrollTop: jQuery(id).offset().top
+          }, 1000);
+          return false;
+        });
       },
       finalize: function() {
-        // JavaScript to be fired on the home page, after the init JS
-      }
-    },
-    // About us page, note the change from about-us to about_us.
-    'about_us': {
-      init: function() {
-        // JavaScript to be fired on the about us page
       }
     }
   };
