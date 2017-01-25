@@ -1,4 +1,4 @@
-application: bluearrowawards-1158
+application: bluearrowawards-2017
 version: wpfromstarterproject
 runtime: php55
 api_version: 1
@@ -60,3 +60,4 @@ skip_files:
 - ^(.*/)?\.sh$
 - ^(.*/)?\.md$
 - ^wordpress/wp-content/themes/bluearrow/node_modules
+- ^wordpress/wp-content/themes/bluearrow-2017/node_modules
