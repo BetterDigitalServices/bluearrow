@@ -53,7 +53,6 @@ Blue_Arrow_2017_Menu_Item_Custom_Fields::init();
 
 function bluearrow_2017_scripts()
 {
-  wp_enqueue_script( 'headroom', get_template_directory_uri() . '/node_modules/headroom.js/dist/headroom.js' );
 }
 add_action( 'wp_enqueue_scripts', 'bluearrow_2017_scripts' );
 

@@ -56,6 +56,5 @@
     "wiredep": "^4.0.0"
   },
   "dependencies": {
-    "headroom.js": "^0.9.3"
   }
 }

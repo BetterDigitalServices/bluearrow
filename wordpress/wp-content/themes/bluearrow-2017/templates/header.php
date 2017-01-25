@@ -27,7 +27,7 @@ if (isset($menu_locations['primary_navigation'])) {
         </ul>
         <div class="header-button-container clearfix">
           <a class="header-button" href="/categories/">
-            <div class="header-button-text">Entries open 31.1.2017</div>
+            <div class="header-button-text">Entries open 14.2.2017</div>
           </a>
           <div class="header-button-shadow"></div>
         </div>
@@ -52,4 +52,3 @@ if (isset($menu_locations['primary_navigation'])) {
     <?php endforeach; ?>
   </ul>
 </div>
-
