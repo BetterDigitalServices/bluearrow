@@ -12,21 +12,21 @@ handlers:
   upload: wordpress/.*\.(htm|html|css|js)$
   application_readable: true
 
-- url: /wp-content/(.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg))$
+- url: /wp-content/(.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg))$
   static_files: wordpress/wp-content/\1
-  upload: wordpress/wp-content/.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg)$
+  upload: wordpress/wp-content/.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg)$
   application_readable: true
   http_headers:
       Access-Control-Allow-Origin: https://ssl.eventilla.com
 
-- url: /(.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg))$
+- url: /(.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg))$
   static_files: wordpress/\1
-  upload: wordpress/.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg)$
+  upload: wordpress/.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg)$
   application_readable: true
 
-- url: /wp-includes/images/media/(.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg))$
+- url: /wp-includes/images/media/(.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg))$
   static_files: wordpress/wp-includes/images/media/\1
-  upload: wordpress/wp-includes/images/media/.*\.(ico|jpg|jpeg|png|gif|woff|ttf|otf|eot|svg)$
+  upload: wordpress/wp-includes/images/media/.*\.(ico|jpg|jpeg|png|gif|woff|woff2|ttf|otf|eot|svg)$
   application_readable: true
 
 - url: /wp-admin/(.+)
