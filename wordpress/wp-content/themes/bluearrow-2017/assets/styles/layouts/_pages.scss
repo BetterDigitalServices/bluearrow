@@ -4,8 +4,13 @@ body {
 }
 
 .page-image {
-  width: 100%;
-  box-shadow: 0 5px 15px 10px rgba(0,0,0,.2);
+  display: none;
+
+  @include media-breakpoint-up(md) {
+    display: block;
+    width: 100%;
+    box-shadow: 0 5px 15px 10px rgba(0,0,0,.2);
+  }
 }
 
 .mce-content-body {
