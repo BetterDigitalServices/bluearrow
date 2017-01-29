@@ -21,7 +21,7 @@
         // JavaScript to be fired on all pages
 
         // Hide nav bar on scroll
-        var myElement = document.querySelector(".header");
+        var myElement = document.querySelector('.header');
         var headroom  = new Headroom(myElement, { tolerance: 10 });
         headroom.init();
 
@@ -41,11 +41,11 @@
           var logoWidth = 136;
           if (jQuery('.header-right').position().left < logoWidth) {
             jQuery('.header').addClass('header--is-mobile');
-            jQuery('.wrap.container').css('margin-top', '90px');
+            jQuery('.page-area').css('margin-top', '90px');
             jQuery('.header-right').css('visibility', 'hidden');
           } else {
             jQuery('.header').removeClass('header--is-mobile');
-            jQuery('.wrap.container').css('margin-top', '136px');
+            jQuery('.page-area').css('margin-top', '136px');
             jQuery('.header-right').css('visibility', 'visible');
           }
         }

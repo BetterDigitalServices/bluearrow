@@ -3,7 +3,6 @@
     <h1><?php single_cat_title() ?></h1>
     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
       <article class="list-article">
-        <?php $post_image = get_the_post_thumbnail_url(get_post(), 'post-feature-image') ?>
         <?php if ($post_image): ?>
           <div class="list-article-feature-image m-b-2" style="background-image: url('<?php echo $post_image ?>')"></div>
         <?php endif; ?>

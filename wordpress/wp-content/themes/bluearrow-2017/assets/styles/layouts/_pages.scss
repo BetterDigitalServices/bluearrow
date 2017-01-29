@@ -3,12 +3,20 @@ body {
   background: linear-gradient(#66b7cc, #4a9baf);
 }
 
+.page-image {
+  width: 100%;
+  box-shadow: 0 5px 15px 10px rgba(0,0,0,.2);
+}
+
 .mce-content-body {
   background: $brand-primary;
 }
 
-.wrap.container {
+.page-area {
   margin-top: 136px;
+}
+
+.wrap.container {
   padding-top: 55px;
   min-height: 300px;
   word-wrap: break-word;

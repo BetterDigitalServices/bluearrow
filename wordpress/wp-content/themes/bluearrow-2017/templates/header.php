@@ -7,33 +7,33 @@ if (isset($menu_locations['primary_navigation'])) {
 ?>
 
 <header class="header">
-    <nav class="main-nav clearfix">
-      <a class="header-logo" href="<?php echo esc_url(home_url('/')); ?>"></a>
-      <div class="header-right">
-        <ul class="main-nav-links">
-          <?php foreach ($menu as $item): ?>
-          <li class="main-nav-links-item">
-            <a class="main-nav-links-item-link" href="<?php echo esc_url($item->url); ?>">
-              <?php $icon = get_post_meta( $item->ID, 'menu-item-icon', true ); ?>
-              <?php if($icon): ?>
-                <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/' . $icon ?>')"></div>
-              <?php else: ?>
-                <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/header-icon-news.svg' ?>')"></div>
-              <?php endif; ?>
-              <div class="main-nav-links-item-title"><?php echo $item->title ?></div>
-            </a>
-          </li>
-          <?php endforeach; ?>
-        </ul>
-        <div class="header-button-container clearfix">
-          <a class="header-button" href="/categories/">
-            <div class="header-button-text">Entries open 14.2.2017</div>
+  <nav class="main-nav clearfix">
+    <a class="header-logo" href="<?php echo esc_url(home_url('/')); ?>"></a>
+    <div class="header-right">
+      <ul class="main-nav-links">
+        <?php foreach ($menu as $item): ?>
+        <li class="main-nav-links-item">
+          <a class="main-nav-links-item-link" href="<?php echo esc_url($item->url); ?>">
+            <?php $icon = get_post_meta( $item->ID, 'menu-item-icon', true ); ?>
+            <?php if($icon): ?>
+              <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/' . $icon ?>')"></div>
+            <?php else: ?>
+              <div class="main-nav-links-item-icon" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/header-icon-news.svg' ?>')"></div>
+            <?php endif; ?>
+            <div class="main-nav-links-item-title"><?php echo $item->title ?></div>
           </a>
-          <div class="header-button-shadow"></div>
-        </div>
+        </li>
+        <?php endforeach; ?>
+      </ul>
+      <div class="header-button-container clearfix">
+        <a class="header-button" href="/categories/">
+          <div class="header-button-text">Entries open 14.2.2017</div>
+        </a>
+        <div class="header-button-shadow"></div>
       </div>
-      <div class="header-mobile-nav-button util-background-icon"></div>
-    </nav>
+    </div>
+    <div class="header-mobile-nav-button util-background-icon"></div>
+  </nav>
 </header>
 <div class="mobile-nav-menu">
   <ul class="mobile-nav-menu-list">
