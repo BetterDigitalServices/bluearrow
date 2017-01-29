@@ -41,7 +41,7 @@
         <h2><?php echo $section->title ?></h2>
         <div class="categories-container clearfix">
           <?php foreach ($section->categories as $category): ?>
-            <a class="category-box" href="/categories/#<?php echo $category->post_name ?>">
+            <a class="category-box" href="/competition/#<?php echo $category->post_name ?>">
               <div class="category-box-corner"></div>
               <div class="category-box-title"><?php echo $category->post_title ?></div>
             </a>
@@ -69,5 +69,3 @@
     </div>
   </div>
 </div>
-
-
