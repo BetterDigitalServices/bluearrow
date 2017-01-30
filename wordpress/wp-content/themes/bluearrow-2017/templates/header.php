@@ -26,7 +26,7 @@ if (isset($menu_locations['primary_navigation'])) {
         <?php endforeach; ?>
       </ul>
       <div class="header-button-container clearfix">
-        <a class="header-button" href="/categories/">
+        <a class="header-button" href="/competition/">
           <div class="header-button-text">Entries open 14.2.2017</div>
         </a>
         <div class="header-button-shadow"></div>

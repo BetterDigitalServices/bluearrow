@@ -1,11 +1,8 @@
 .gallery {
+  text-align: center;
+
   figure {
     display: inline-block;
     margin: 10px 30px;
   }
-}
-
-ul {
-  display: inline-block;
-  max-width: 576px;
 }

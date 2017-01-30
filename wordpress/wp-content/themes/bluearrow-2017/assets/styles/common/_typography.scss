@@ -14,7 +14,6 @@
   url("../fonts/baskerville10pro-medium-webfont.woff") format("woff");
   font-weight: 500;
   font-style: normal;
-
 }
 
 @font-face {
@@ -23,7 +22,6 @@
   url("../fonts/baskerville120pro-webfont.woff") format("woff");
   font-weight: 400;
   font-style: normal;
-
 }
 
 @font-face {
@@ -32,7 +30,6 @@
   url("../fonts/baskerville120pro-italic-webfont.woff") format("woff");
   font-weight: 400;
   font-style: italic;
-
 }
 
 @font-face {
@@ -41,7 +38,6 @@
   url("../fonts/rene_bieder-campton_bold-webfont.woff") format("woff");
   font-weight: 700;
   font-style: normal;
-
 }
 
 @font-face {
@@ -50,7 +46,6 @@
   url("../fonts/rene_bieder-campton_book-webfont.woff") format("woff");
   font-weight: 400;
   font-style: normal;
-
 }
 
 @font-face {
@@ -59,7 +54,6 @@
   url("../fonts/rene_bieder-campton_light-webfont.woff") format("woff");
   font-weight: 300;
   font-style: normal;
-
 }
 
 @font-face {
@@ -68,7 +62,6 @@
   url("../fonts/rene_bieder-campton_medium-webfont.woff") format("woff");
   font-weight: 500;
   font-style: normal;
-
 }
 
 @font-face {
@@ -87,25 +80,6 @@ body {
   -o-font-smoothing: antialiased;
 }
 
-h1 {
-  font-size: 87px;
-  text-transform: uppercase;
-  font-weight: 500;
-  letter-spacing: 6px;
-}
-
-@include media-breakpoint-down(md) {
-  h1 {
-    font-size: (87px * 0.75);
-  }
-}
-
-@include media-breakpoint-down(sm) {
-  h1 {
-    font-size: (87px * 0.5);
-  }
-}
-
 .text-highlight {
   font-family: $font-family-fancy;
   font-weight: 600;
@@ -113,8 +87,33 @@ h1 {
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h6 {
   text-transform: uppercase;
+  text-align: center;
+}
+
+h1 {
+  margin-top: $font-size-h1 * 1.5;
+  margin-bottom: $font-size-h1 * 0.5;
+}
+
+h2 {
+  margin-top: $font-size-h2 * 1.5;
+  margin-bottom: $font-size-h2 * 0.5;
+}
+
+h3 {
+  margin-top: $font-size-h3 * 1.5;
+  margin-bottom: $font-size-h3 * 0.5;
+}
+
+h4 {
+  margin-top: $font-size-h4 * 1.5;
+  margin-bottom: $font-size-h4 * 0.5;
 }
 
 a {
   font-weight: 600;
+}
+
+p {
+  margin-bottom: 1.5rem;
 }

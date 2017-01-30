@@ -5,9 +5,9 @@
 @import "../../bower_components/bootstrap/scss/bootstrap.scss";
 // endbower
 
-@import "common/global";
-@import "common/typography";
 @import "common/utils";
+@import "common/typography";
+@import "common/global";
 @import "components/buttons";
 @import "components/comments";
 @import "components/forms";

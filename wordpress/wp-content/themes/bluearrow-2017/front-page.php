@@ -3,7 +3,7 @@
   April 2017<br>
   <span class="rotated-bold">Helsinki/Finland</span>
 </div>
-<h1 class="front-page-title">Blue Arrow. An award for <span class="front-page-title-underline">impact</span>.</h1>
+<h1 class="front-page-title">Blue Arrow. An award for <u>impact</u>.</h1>
 <div class="front-page-top-section">
   <div class="row">
     <div class="col-xs-12">

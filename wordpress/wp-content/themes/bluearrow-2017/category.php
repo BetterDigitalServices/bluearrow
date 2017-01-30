@@ -11,11 +11,11 @@
         <div class="list-article-excerpt">
         <?php the_excerpt(); ?>
         </div>
-        <a class="list-article-read-more" href="<?php the_permalink(); ?>">▸ Read more</a>
+        <a class="list-article-read-more" href="<?php the_permalink(); ?>">Read more...</a>
       </article>
 
       <div class="clearfix">
-        <div class="squiggle util-background-icon pull-xs-left list-article-spacer"></div>
+        <div class="pull-xs-left list-article-spacer"></div>
       </div>
 
     <?php endwhile; else : ?>
