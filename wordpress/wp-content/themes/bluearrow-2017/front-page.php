@@ -57,7 +57,7 @@
     <div class="clearfix social-media-icons-container">
       <a href="https://www.facebook.com/bluearrowawards/" class="social-media-icon" target="_blank"style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/icon-social-media-facebook.svg' ?>')"></a>
       <a href="https://twitter.com/bluearrowawards" class="social-media-icon" target="_blank" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/icon-social-media-twitter.svg' ?>')"></a>
-      <a href="https://www.linkedin.com/groups/8465932/profileacti" class="social-media-icon" target="_blank"style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/icon-social-media-linkedin.svg' ?>')"></a>
+      <a href="https://www.linkedin.com/groups/8465932" class="social-media-icon" target="_blank"style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/icon-social-media-linkedin.svg' ?>')"></a>
     </div>
   </div>
 </div>
