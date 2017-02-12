@@ -20,6 +20,7 @@
 .category-title {
   font-size: 48px;
   letter-spacing: 5px;
+  margin-top: 0;
   margin-bottom: 40px;
 }
 
@@ -27,6 +28,7 @@
   font-family: $font-family-fancy;
   text-align: center;
   font-size: 30px;
+  margin-bottom: 0.5rem;
 }
 
 .category-spacer {
@@ -36,10 +38,8 @@
   margin: 0 auto;
   margin-top: 60px;
   margin-bottom: 60px;
-}
 
-@include media-breakpoint-down(sm) {
-  .category-spacer {
+  @include media-breakpoint-down(sm) {
     width: 100%;
   }
 }
@@ -55,7 +55,7 @@
 }
 
 .category-main-judge-image {
-  width: 142px;
+  width: 150px;
 }
 
 .category-main-judge-header {
@@ -95,9 +95,7 @@
   margin-top: 10px;
 }
 
-.category-assisting-judge {
-  margin-bottom: 70px;
-}
+.category-assisting-judge {}
 
 @include media-breakpoint-down(sm) {
   .category-assisting-judge {
@@ -119,7 +117,6 @@
 }
 
 .category-assisting-jury-title, .category-evaluation-criteria-title {
-  font-size: 20px;
 }
 
 @include media-breakpoint-down(sm) {
@@ -136,4 +133,3 @@
     margin-top: 40px;
   }
 }
-

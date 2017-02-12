@@ -39,11 +39,6 @@
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-xs-12">
-              <div class="category-main-judge-long-description"><?php echo get_post_field('long_description', $judge->ID); ?></div>
-            </div>
-          </div>
         </div>
         <?php endif; ?>
         <?php $assisting_jury = get_field('judges', $category->ID) ?>
