@@ -56,6 +56,11 @@
         <?php endif; ?>
         <h3 class="category-evaluation-criteria-title">Evaluation criteria</h3>
         <?php echo get_field('evaluation_criteria', $category->ID) ?>
+        <div class="row flex-items-xs-center">
+          <div class="col-md-12 category-actions">
+            <a class="btn btn-primary" href="<?php echo $category->submission_link; ?>">Submit your entry</a>
+          </div>
+        </div>
       </article>
     <?php endforeach; ?>
   </div>

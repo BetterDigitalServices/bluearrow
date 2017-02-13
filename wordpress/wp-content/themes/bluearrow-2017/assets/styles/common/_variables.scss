@@ -34,3 +34,10 @@ $font-family-base: $font-family-default;
 $link-color: $color-white;
 $link-hover-color: $color-white;
 $headings-margin-bottom: 1rem;
+
+// Buttons
+$btn-border-radius-base: 0 !default;
+$btn-border-radius-large: 0 !default;
+$btn-border-radius-small: 0 !default;
+$btn-primary-bg: $color-white;
+$btn-primary-color: $light-blue;

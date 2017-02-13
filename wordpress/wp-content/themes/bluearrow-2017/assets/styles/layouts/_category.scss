@@ -119,6 +119,11 @@
 .category-assisting-jury-title, .category-evaluation-criteria-title {
 }
 
+.category-actions {
+  text-align: center;
+  margin-top: 1.5em;
+}
+
 @include media-breakpoint-down(sm) {
   .category-main-judge-image {
     margin-left: auto;
