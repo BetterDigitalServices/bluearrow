@@ -43,7 +43,7 @@
         <?php endif; ?>
         <?php $assisting_jury = get_field('judges', $category->ID) ?>
         <?php if ($assisting_jury): ?>
-          <h3 class="category-assisting-jury-title">Assisting jury</h3>
+          <h3 class="category-assisting-jury-title">Jury</h3>
           <div class="row flex-items-xs-center">
             <?php foreach ($assisting_jury as $judge): ?>
               <div class="col-md-4 category-assisting-judge">
