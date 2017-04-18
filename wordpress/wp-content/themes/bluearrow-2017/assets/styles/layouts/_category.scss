@@ -138,3 +138,44 @@
     margin-top: 40px;
   }
 }
+
+/* Begin entries */
+
+.category-entries-title {
+}
+
+.category-entry-image {
+  margin: 0 auto;
+  width: 300px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.category-entry-name {
+  text-align: center;
+}
+
+.category-entry-short-description {
+  text-align: justify;
+  font-size: 18px;
+  //opacity: 0.75;
+  margin-top: 10px;
+}
+
+.category-entry {
+  a {
+    margin-right: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .category-entry {
+    margin-bottom: 10px;
+  }
+}
+
+/* Entries end */
