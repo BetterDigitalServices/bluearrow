@@ -7,7 +7,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-alpha.4",
-    "headroom.js": "https://unpkg.com/headroom.js/bower.zip"
+
   }
 }

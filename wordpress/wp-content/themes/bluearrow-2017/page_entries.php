@@ -23,12 +23,44 @@
         <h2 class="category-title">
           <?php echo $category->post_title; ?>
         </h2>
-        <?php $entries = get_field('entries', $category->ID) ?>
+        <?php
+          $entries = get_field('entries', $category->ID);
+        ?>
         <?php if ($entries): ?>
+          <?php
+            $groups = array(
+              'finalists' => array(),
+              'entries'   => array()
+            );
+
+            foreach( $entries as $entry ) {
+              if( get_field('finalist', $entry->ID) ) {
+                $groups['finalists'][] = $entry;
+              } else {
+                $groups['entries'][] = $entry;
+              }
+            }
+          ?>
+
+          <?php if (!empty($groups['finalists'])): ?>
+            <h3>Finalists</h3>
+            <div class="row flex-items-xs-center">
+              <?php foreach ( $groups['finalists'] as $entry): ?>
+                <div class="col-md-6 category-entry">
+                  <img src="<?php echo get_the_post_thumbnail_url($entry) ?>" class="img-fluid category-entry-image" alt="<?php echo $entry->post_title ?>">
+                  <h3 class="category-entry-name"><?php echo $entry->post_title ?></h3>
+                  <div class="category-entry-short-description"><?php echo get_post_field('post_content', $entry->ID) ?></div>
+                </div>
+              <?php endforeach; ?>
+            </div>
+          <?php endif; ?>
+          <h3>Entries</h3>
           <div class="row flex-items-xs-center">
-            <?php foreach ($entries as $entry): ?>
+            <?php foreach( $groups['entries'] as $entry ): ?>
               <div class="col-md-6 category-entry">
-                <img src="<?php echo get_the_post_thumbnail_url($entry) ?>" class="img-fluid category-entry-image" alt="<?php echo $entry->post_title ?>">
+                <img src="<?php echo get_the_post_thumbnail_url($entry) ?>"
+                     class="img-fluid category-entry-image"
+                     alt="<?php echo $entry->post_title ?>">
                 <h3 class="category-entry-name"><?php echo $entry->post_title ?></h3>
                 <div class="category-entry-short-description"><?php echo get_post_field('post_content', $entry->ID) ?></div>
               </div>
