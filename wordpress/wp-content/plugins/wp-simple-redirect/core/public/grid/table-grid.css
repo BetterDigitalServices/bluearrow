@@ -1,0 +1,88 @@
+/*!
+ * table-grid (http://mdo.github.io/table-grid)
+ * Released under MIT, (c) 2014 Mark Otto
+ */
+.grid {
+  max-width: 1200px;}
+
+@media (min-width: 600px) {
+  .row {
+    display: table;
+    width: 100%;
+    table-layout: auto; }
+
+.col-fill{
+    display: table-cell;
+    width:100%;}
+
+.col-min{
+      padding-right:10px;
+      width: 0px;
+      white-space: nowrap;
+     display: table-cell;}
+
+.col {
+   display: table-cell; }
+
+}
+ /* .row-padded {
+    margin-left: -1rem;
+    margin-right: -1rem; }
+
+  .row-padded .row {
+    border-spacing: 1rem 0; } } */
+    
+@media (min-width: 600px) {
+  .col1 {
+	display: table-cell;   
+    width: 8.333333%; }
+
+  .col2 {
+	display: table-cell; 
+    width: 16.666667%; }
+
+  .col3 {
+	display: table-cell; 
+    width: 25%; }
+
+  .col4 {
+	display: table-cell; 
+    width: 33.333333%; }
+
+  .col5 {
+	display: table-cell; 
+    width: 41.666667%; }
+
+  .col6 {
+	display: table-cell; 
+    width: 50%; }
+
+  .col7 {
+	display: table-cell; 
+    width: 58.333333%; }
+
+  .col8 {
+	display: table-cell; 
+    width: 66.666667%; }
+
+  .col9 {
+    display: table-cell; 
+    width: 75%; }
+
+  .col10 {
+    display: table-cell; 
+    width: 83.333333%; }
+
+  .col11 {
+    display: table-cell; 
+    width: 91.666667%; } }
+    
+.row-align-middle .col {
+  display: table-cell; 
+  vertical-align: middle; }
+
+.row-reverse {
+  direction: rtl; }
+
+.row-reverse .col {
+  direction: ltr; }

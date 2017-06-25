@@ -94,7 +94,7 @@ In practice what you need to do is run letsencrypt cli every few months, follow 
 
     > git clone git@github.com:certbot/certbot.git
     > cd certbot
-    > sudo ./certbot-auto certonly --debug --manual
+    > sudo ./certbot-auto certonly --debug --manual --cert-name www.bluearrowawards.com
 
 2. Follow the certbot instructions, e.g. copy the certbot verification string into root-level `.well-known/acme-challenge` directory while the process is still running.
 

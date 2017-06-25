@@ -1,0 +1,319 @@
+/* User Defined Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/** Place all user defined styles here, so we can use 
+a GIT Merge Tool easier*/
+
+html .wrap .column-slug{
+	width: 60%;
+}
+
+/* END USER DEFINED SYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.arevico .hidden{
+	display: none;
+}
+
+
+.column-row{
+	width:90%
+}
+
+.column-delete{
+	width:10%;
+}
+
+/* General Reset Selectors
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.arevico *{
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.arevico .row{
+	margin-bottom: 10px;
+}
+
+/* General Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Some plugins inject notices onto all pages, hide them */
+.arevico .updated{
+	display: none;
+}
+
+.arevico .tab-header{
+	margin-bottom: 20px;
+}
+
+.update-success, .update-error{
+	background: white none repeat scroll 0 0;
+	border: 1px solid #e6e6e6;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	font-size: 16px;
+	font-weight: 900;
+	padding: 10px;
+}
+
+.update-error{
+	color: darkred;
+}
+
+.update-success p{
+	font-size: 16px;
+	margin:0 10px;
+}
+
+/* Input Elements
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.arevico input[type="text"],
+.arevico input[type="email"],
+.arevico select{
+	height: 35px;
+	line-height: 35px;
+	width: 100%;
+	vertical-align: baseline;
+	font-size: 16px;
+}
+
+.arevico div.full{
+	width:100%;}
+
+.arevico div.nano{
+	width:2.2em;}
+
+.arevico div.mini{
+	width:10%;}
+
+.arevico div.small{
+	width:20%;}
+
+.arevico div.medium{
+	width:40%;}
+
+.arevico div.large{
+	width:60%;}
+
+.arevico input.halve{
+	width:50%;}
+
+.arevico input.quarter{
+	width:25%;}
+
+.arevico .save-button{
+	width:100%;
+	height: 35px;
+	font-size: 16px;
+	font-weight: 700;}
+/* Tables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+table{
+	width: 100%;}
+.arevico-table th,
+.arevico-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #E1E1E1; }
+.arevico-table th:first-child,
+.arevico-table td:first-child {
+  padding-left: 0; }
+.arevico-table th:last-child,
+.arevico-table td:last-child {
+  padding-right: 0; }
+
+.arevico-table th.nano,
+.arevico-table td.nano,
+table.wp-list-table th.nano,
+table.wp-list-table td.nano {
+  width:2.2em;}
+
+.arevico-table th.mini,
+.arevico-table td.mini,
+table.wp-list-table th.mini,
+table.wp-list-table td.mini {
+  width:10%;}
+
+.arevico-table th.small,
+.arevico-table td.small,
+table.wp-list-table th.small,
+table.wp-list-table td.small {
+  width:20%;}
+
+.arevico-table th.normal,
+.arevico-table td.normal,
+table.wp-list-table th.normal,
+table.wp-list-table td.normal {
+  width:30%;}
+
+.arevico-table th.medium,
+.arevico-table td.medium,
+table.wp-list-table th.medium,
+table.wp-list-table td.medium {
+  width:40%;}
+
+.arevico-table th.large,
+.arevico-table td.large,
+table.wp-list-table th.large,
+table.wp-list-table td.large {
+  width:60%;}
+
+.arevico-table tr.hidden,
+table.wp-list-table tr.hidden {
+	display:none;
+}
+
+.arevico table input[type="text"] {
+	width: 100%;
+}
+
+/*
+table    { display: table }
+tr       { display: table-row }
+thead    { display: table-header-group }
+tbody    { display: table-row-group }
+tfoot    { display: table-footer-group }
+col      { display: table-column }
+colgroup { display: table-column-group }
+td, th   { display: table-cell }
+caption  { display: table-caption }
+*/
+
+/* Tabs General
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+html .tab{
+  display: none;}
+
+html .tab-active{
+  display: block;}
+
+/* Side Tabs
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.side-tab .tab-header{
+  float:left;}
+
+.side-tab ul,
+{
+  margin:0;
+  list-style: outside none none;}
+
+
+ /* Form and Option Styling
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.arevico .row,
+.arevico .row p{
+	font-size: 16px;
+	line-height: 1.4;
+}
+
+.arevico .row p{
+	margin-top:5px;
+}
+
+.arevico .label{
+	text-align: right;
+	font-weight: 700;
+	font-size:16px;
+	padding-right:20px;
+}
+
+ /* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.text-right{
+	text-align: right;}
+
+.text-left{
+	text-align: left;}
+
+.text-center{
+	text-align: center;}
+
+.italic{
+	font-style: italic;}
+ /* Errors
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+html .arevico .error{
+  border:1px solid darkred;
+}
+
+html .arevico .error-block{
+background: white none repeat scroll 0 0;
+	border: 1px solid #e6e6e6;
+		color: darkred;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	font-size: 16px;
+	font-weight: 900;
+	padding: 10px;
+}
+
+html .arevico .update-block{
+background: white none repeat scroll 0 0;
+	border: 1px solid #e6e6e6;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	font-size: 16px;
+	font-weight: 900;
+	padding: 10px;
+}
+
+[data-tip] {
+	position:relative;
+
+}
+[data-tip]:before {
+	content:'';
+	/* hides the tooltip when not hovered */
+	display:none;
+	content:'';
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 5px solid #1a1a1a;
+	position:absolute;
+	top:30px;
+	left:35px;
+	z-index:8;
+	font-size:0;
+	line-height:0;
+	width:0;
+	height:0;
+}
+[data-tip]:after {
+	display:none;
+	content:attr(data-tip);
+	position:absolute;
+	top:35px;
+	left:0px;
+	padding:5px 8px;
+	background:#1a1a1a;
+	color:#fff;
+	z-index:9;
+	font-size: 0.75em;
+	height:18px;
+	line-height:18px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	white-space:nowrap;
+	word-wrap:normal;
+}
+[data-tip]:hover:before,
+[data-tip]:hover:after {
+	display:block;
+}
+
+
+ /* Media Query To Handle Small Screens
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+@media (max-width: 600px) {
+
+	.arevico .label{
+		text-align: left;
+		margin-top:5px;
+		margin-bottom:5px;
+	}
+
+	/* Add this to columns not being displayed on small devices*/
+	.col-sr{
+		display:none;
+	}
+	
+
+}
